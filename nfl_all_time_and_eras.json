@@ -1,0 +1,6302 @@
+{
+  "ARI": {
+    "QB": {
+      "all_time": {
+        "player": "Kurt Warner",
+        "score": 82.6,
+        "bio": null
+      },
+      "classic": {
+        "player": "Jim Hart",
+        "score": 80.6,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Kurt Warner",
+        "score": 82.6,
+        "bio": null
+      },
+      "modern": {
+        "player": "Kyler Murray",
+        "score": 77.6,
+        "bio": {
+          "round": 1,
+          "season": 2019,
+          "college": "Oklahoma"
+        }
+      }
+    },
+    "WR": {
+      "all_time": {
+        "player": "Larry Fitzgerald",
+        "score": 98.3,
+        "bio": {
+          "round": 1,
+          "season": 2004,
+          "college": "Pittsburgh"
+        }
+      },
+      "classic": {
+        "player": "Roy Green",
+        "score": 79.4,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Larry Fitzgerald",
+        "score": 98.3,
+        "bio": {
+          "round": 1,
+          "season": 2004,
+          "college": "Pittsburgh"
+        }
+      },
+      "modern": {
+        "player": "Larry Fitzgerald",
+        "score": 98.3,
+        "bio": {
+          "round": 1,
+          "season": 2004,
+          "college": "Pittsburgh"
+        }
+      }
+    },
+    "RB": {
+      "all_time": {
+        "player": "Ottis Anderson",
+        "score": 89.3,
+        "bio": null
+      },
+      "classic": {
+        "player": "Ottis Anderson",
+        "score": 89.3,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Edgerrin James",
+        "score": 79.9,
+        "bio": {
+          "round": 1,
+          "season": 1999,
+          "college": "Miami (FL)"
+        }
+      },
+      "modern": {
+        "player": "James Conner",
+        "score": 80.3,
+        "bio": {
+          "round": 3,
+          "season": 2017,
+          "college": "Pittsburgh"
+        }
+      }
+    },
+    "TE": {
+      "all_time": {
+        "player": "Jackie Smith",
+        "score": 93.6,
+        "bio": null
+      },
+      "classic": {
+        "player": "Jackie Smith",
+        "score": 93.6,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Terry Hardy",
+        "score": 71,
+        "bio": {
+          "round": 5,
+          "season": 1998,
+          "college": "Southern Miss"
+        }
+      },
+      "modern": {
+        "player": "Trey McBride",
+        "score": 86.3,
+        "bio": {
+          "round": 2,
+          "season": 2022,
+          "college": "Colorado St."
+        }
+      }
+    },
+    "FRONT7": {
+      "all_time": {
+        "player": "Chandler Jones",
+        "score": 83.4,
+        "bio": {
+          "round": 1,
+          "season": 2012,
+          "college": "Syracuse"
+        }
+      },
+      "classic": {
+        "player": "Dale Meinert",
+        "score": 75,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Calais Campbell",
+        "score": 82.5,
+        "bio": {
+          "round": 2,
+          "season": 2008,
+          "college": "Miami (FL)"
+        }
+      },
+      "modern": {
+        "player": "Chandler Jones",
+        "score": 83.4,
+        "bio": {
+          "round": 1,
+          "season": 2012,
+          "college": "Syracuse"
+        }
+      }
+    },
+    "DB": {
+      "all_time": {
+        "player": "Aeneas Williams",
+        "score": 96.9,
+        "bio": {
+          "round": 3,
+          "season": 1991,
+          "college": "Southern"
+        }
+      },
+      "classic": {
+        "player": "Aeneas Williams",
+        "score": 96.9,
+        "bio": {
+          "round": 3,
+          "season": 1991,
+          "college": "Southern"
+        }
+      },
+      "bridge": {
+        "player": "Aeneas Williams",
+        "score": 96.9,
+        "bio": {
+          "round": 3,
+          "season": 1991,
+          "college": "Southern"
+        }
+      },
+      "modern": {
+        "player": "Patrick Peterson",
+        "score": 94.8,
+        "bio": {
+          "round": 1,
+          "season": 2011,
+          "college": "LSU"
+        }
+      }
+    }
+  },
+  "LAC": {
+    "QB": {
+      "all_time": {
+        "player": "Dan Fouts",
+        "score": 93,
+        "bio": null
+      },
+      "classic": {
+        "player": "Dan Fouts",
+        "score": 93,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Philip Rivers",
+        "score": 89.9,
+        "bio": {
+          "round": 1,
+          "season": 2004,
+          "college": "North Carolina St."
+        }
+      },
+      "modern": {
+        "player": "Philip Rivers",
+        "score": 89.9,
+        "bio": {
+          "round": 1,
+          "season": 2004,
+          "college": "North Carolina St."
+        }
+      }
+    },
+    "WR": {
+      "all_time": {
+        "player": "Lance Alworth",
+        "score": 98,
+        "bio": null
+      },
+      "classic": {
+        "player": "Lance Alworth",
+        "score": 98,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Vincent Jackson",
+        "score": 78.5,
+        "bio": {
+          "round": 2,
+          "season": 2005,
+          "college": "Northern Colorado"
+        }
+      },
+      "modern": {
+        "player": "Keenan Allen",
+        "score": 88.8,
+        "bio": {
+          "round": 3,
+          "season": 2013,
+          "college": "California"
+        }
+      }
+    },
+    "RB": {
+      "all_time": {
+        "player": "LaDainian Tomlinson",
+        "score": 98.7,
+        "bio": {
+          "round": 1,
+          "season": 2001,
+          "college": "TCU"
+        }
+      },
+      "classic": {
+        "player": "Keith Lincoln",
+        "score": 80.4,
+        "bio": null
+      },
+      "bridge": {
+        "player": "LaDainian Tomlinson",
+        "score": 98.7,
+        "bio": {
+          "round": 1,
+          "season": 2001,
+          "college": "TCU"
+        }
+      },
+      "modern": {
+        "player": "Austin Ekeler",
+        "score": 79.6,
+        "bio": null
+      }
+    },
+    "TE": {
+      "all_time": {
+        "player": "Antonio Gates",
+        "score": 98.3,
+        "bio": null
+      },
+      "classic": {
+        "player": "Kellen Winslow",
+        "score": 97.1,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Antonio Gates",
+        "score": 98.3,
+        "bio": null
+      },
+      "modern": {
+        "player": "Antonio Gates",
+        "score": 98.3,
+        "bio": null
+      }
+    },
+    "FRONT7": {
+      "all_time": {
+        "player": "Junior Seau",
+        "score": 96.7,
+        "bio": {
+          "round": 1,
+          "season": 1990,
+          "college": "USC"
+        }
+      },
+      "classic": {
+        "player": "Junior Seau",
+        "score": 96.7,
+        "bio": {
+          "round": 1,
+          "season": 1990,
+          "college": "USC"
+        }
+      },
+      "bridge": {
+        "player": "Junior Seau",
+        "score": 96.7,
+        "bio": {
+          "round": 1,
+          "season": 1990,
+          "college": "USC"
+        }
+      },
+      "modern": {
+        "player": "Khalil Mack",
+        "score": 87.5,
+        "bio": {
+          "round": 1,
+          "season": 2014,
+          "college": "Buffalo"
+        }
+      }
+    },
+    "DB": {
+      "all_time": {
+        "player": "Eric Weddle",
+        "score": 88,
+        "bio": {
+          "round": 2,
+          "season": 2007,
+          "college": "Utah"
+        }
+      },
+      "classic": {
+        "player": "Kenny Graham",
+        "score": 80.4,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Eric Weddle",
+        "score": 88,
+        "bio": {
+          "round": 2,
+          "season": 2007,
+          "college": "Utah"
+        }
+      },
+      "modern": {
+        "player": "Eric Weddle",
+        "score": 88,
+        "bio": {
+          "round": 2,
+          "season": 2007,
+          "college": "Utah"
+        }
+      }
+    }
+  },
+  "SEA": {
+    "QB": {
+      "all_time": {
+        "player": "Russell Wilson",
+        "score": 89.5,
+        "bio": {
+          "round": 3,
+          "season": 2012,
+          "college": "Wisconsin"
+        }
+      },
+      "classic": {
+        "player": "Dave Krieg",
+        "score": 79,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Warren Moon",
+        "score": 80.6,
+        "bio": null
+      },
+      "modern": {
+        "player": "Russell Wilson",
+        "score": 89.5,
+        "bio": {
+          "round": 3,
+          "season": 2012,
+          "college": "Wisconsin"
+        }
+      }
+    },
+    "WR": {
+      "all_time": {
+        "player": "Steve Largent",
+        "score": 97.7,
+        "bio": null
+      },
+      "classic": {
+        "player": "Steve Largent",
+        "score": 97.7,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Brian Blades",
+        "score": 76.8,
+        "bio": {
+          "round": 2,
+          "season": 1988,
+          "college": "Miami (FL)"
+        }
+      },
+      "modern": {
+        "player": "Tyler Lockett",
+        "score": 80.3,
+        "bio": {
+          "round": 3,
+          "season": 2015,
+          "college": "Kansas St."
+        }
+      }
+    },
+    "RB": {
+      "all_time": {
+        "player": "Shaun Alexander",
+        "score": 93.9,
+        "bio": {
+          "round": 1,
+          "season": 2000,
+          "college": "Alabama"
+        }
+      },
+      "classic": {
+        "player": "Curt Warner",
+        "score": 81.9,
+        "bio": {
+          "round": 1,
+          "season": 1983,
+          "college": "Penn St."
+        }
+      },
+      "bridge": {
+        "player": "Shaun Alexander",
+        "score": 93.9,
+        "bio": {
+          "round": 1,
+          "season": 2000,
+          "college": "Alabama"
+        }
+      },
+      "modern": {
+        "player": "Marshawn Lynch",
+        "score": 86.5,
+        "bio": {
+          "round": 1,
+          "season": 2007,
+          "college": "California"
+        }
+      }
+    },
+    "TE": {
+      "all_time": {
+        "player": "Jimmy Graham",
+        "score": 86.9,
+        "bio": {
+          "round": 3,
+          "season": 2010,
+          "college": "Miami (FL)"
+        }
+      },
+      "classic": {
+        "player": "Charle Young",
+        "score": 62.8,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Itula Mili",
+        "score": 71.4,
+        "bio": {
+          "round": 6,
+          "season": 1997,
+          "college": "BYU"
+        }
+      },
+      "modern": {
+        "player": "Jimmy Graham",
+        "score": 86.9,
+        "bio": {
+          "round": 3,
+          "season": 2010,
+          "college": "Miami (FL)"
+        }
+      }
+    },
+    "FRONT7": {
+      "all_time": {
+        "player": "Bobby Wagner",
+        "score": 95.9,
+        "bio": {
+          "round": 2,
+          "season": 2012,
+          "college": "Utah St."
+        }
+      },
+      "classic": {
+        "player": "Cortez Kennedy",
+        "score": 93,
+        "bio": {
+          "round": 1,
+          "season": 1990,
+          "college": "Miami (FL)"
+        }
+      },
+      "bridge": {
+        "player": "Cortez Kennedy",
+        "score": 93,
+        "bio": {
+          "round": 1,
+          "season": 1990,
+          "college": "Miami (FL)"
+        }
+      },
+      "modern": {
+        "player": "Bobby Wagner",
+        "score": 95.9,
+        "bio": {
+          "round": 2,
+          "season": 2012,
+          "college": "Utah St."
+        }
+      }
+    },
+    "DB": {
+      "all_time": {
+        "player": "Richard Sherman",
+        "score": 96.5,
+        "bio": {
+          "round": 5,
+          "season": 2011,
+          "college": "Stanford"
+        }
+      },
+      "classic": {
+        "player": "Kenny Easley",
+        "score": 94.8,
+        "bio": {
+          "round": 1,
+          "season": 1981,
+          "college": "UCLA"
+        }
+      },
+      "bridge": {
+        "player": "Eugene Robinson",
+        "score": 83.5,
+        "bio": null
+      },
+      "modern": {
+        "player": "Richard Sherman",
+        "score": 96.5,
+        "bio": {
+          "round": 5,
+          "season": 2011,
+          "college": "Stanford"
+        }
+      }
+    }
+  },
+  "MIA": {
+    "QB": {
+      "all_time": {
+        "player": "Dan Marino",
+        "score": 97.5,
+        "bio": {
+          "round": 1,
+          "season": 1983,
+          "college": "Pittsburgh"
+        }
+      },
+      "classic": {
+        "player": "Dan Marino",
+        "score": 97.5,
+        "bio": {
+          "round": 1,
+          "season": 1983,
+          "college": "Pittsburgh"
+        }
+      },
+      "bridge": {
+        "player": "Dan Marino",
+        "score": 97.5,
+        "bio": {
+          "round": 1,
+          "season": 1983,
+          "college": "Pittsburgh"
+        }
+      },
+      "modern": {
+        "player": "Ryan Tannehill",
+        "score": 79.2,
+        "bio": {
+          "round": 1,
+          "season": 2012,
+          "college": "Texas A&M"
+        }
+      }
+    },
+    "WR": {
+      "all_time": {
+        "player": "Tyreek Hill",
+        "score": 95.8,
+        "bio": {
+          "round": 5,
+          "season": 2016,
+          "college": "West Alabama"
+        }
+      },
+      "classic": {
+        "player": "Paul Warfield",
+        "score": 94.3,
+        "bio": null
+      },
+      "bridge": null,
+      "modern": {
+        "player": "Tyreek Hill",
+        "score": 95.8,
+        "bio": {
+          "round": 5,
+          "season": 2016,
+          "college": "West Alabama"
+        }
+      }
+    },
+    "RB": {
+      "all_time": {
+        "player": "Larry Csonka",
+        "score": 90,
+        "bio": null
+      },
+      "classic": {
+        "player": "Larry Csonka",
+        "score": 90,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Ricky Williams",
+        "score": 81.1,
+        "bio": {
+          "round": 1,
+          "season": 1999,
+          "college": "Texas"
+        }
+      },
+      "modern": {
+        "player": "Ricky Williams",
+        "score": 81.1,
+        "bio": {
+          "round": 1,
+          "season": 1999,
+          "college": "Texas"
+        }
+      }
+    },
+    "TE": {
+      "all_time": {
+        "player": "Keith Jackson",
+        "score": 89.1,
+        "bio": {
+          "round": 1,
+          "season": 1988,
+          "college": "Oklahoma"
+        }
+      },
+      "classic": {
+        "player": "Keith Jackson",
+        "score": 89.1,
+        "bio": {
+          "round": 1,
+          "season": 1988,
+          "college": "Oklahoma"
+        }
+      },
+      "bridge": {
+        "player": "Anthony Fasano",
+        "score": 77.2,
+        "bio": {
+          "round": 2,
+          "season": 2006,
+          "college": "Notre Dame"
+        }
+      },
+      "modern": {
+        "player": "Anthony Fasano",
+        "score": 77.2,
+        "bio": {
+          "round": 2,
+          "season": 2006,
+          "college": "Notre Dame"
+        }
+      }
+    },
+    "FRONT7": {
+      "all_time": {
+        "player": "Zach Thomas",
+        "score": 94.2,
+        "bio": {
+          "round": 5,
+          "season": 1996,
+          "college": "Texas Tech"
+        }
+      },
+      "classic": {
+        "player": "Bob Baumhower",
+        "score": 88,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Zach Thomas",
+        "score": 94.2,
+        "bio": {
+          "round": 5,
+          "season": 1996,
+          "college": "Texas Tech"
+        }
+      },
+      "modern": {
+        "player": "Jason Taylor",
+        "score": 93.9,
+        "bio": {
+          "round": 3,
+          "season": 1997,
+          "college": "Akron"
+        }
+      }
+    },
+    "DB": {
+      "all_time": {
+        "player": "Jake Scott",
+        "score": 93.9,
+        "bio": null
+      },
+      "classic": {
+        "player": "Jake Scott",
+        "score": 93.9,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Sam Madison",
+        "score": 92.2,
+        "bio": {
+          "round": 2,
+          "season": 1997,
+          "college": "Louisville"
+        }
+      },
+      "modern": {
+        "player": "Xavien Howard",
+        "score": 82.8,
+        "bio": {
+          "round": 2,
+          "season": 2016,
+          "college": "Baylor"
+        }
+      }
+    }
+  },
+  "DEN": {
+    "QB": {
+      "all_time": {
+        "player": "John Elway",
+        "score": 96.5,
+        "bio": {
+          "round": 1,
+          "season": 1983,
+          "college": "Stanford"
+        }
+      },
+      "classic": {
+        "player": "John Elway",
+        "score": 96.5,
+        "bio": {
+          "round": 1,
+          "season": 1983,
+          "college": "Stanford"
+        }
+      },
+      "bridge": {
+        "player": "John Elway",
+        "score": 96.5,
+        "bio": {
+          "round": 1,
+          "season": 1983,
+          "college": "Stanford"
+        }
+      },
+      "modern": {
+        "player": "Peyton Manning",
+        "score": 96.2,
+        "bio": {
+          "round": 1,
+          "season": 1998,
+          "college": "Tennessee"
+        }
+      }
+    },
+    "WR": {
+      "all_time": {
+        "player": "Rod Smith",
+        "score": 88.5,
+        "bio": null
+      },
+      "classic": {
+        "player": "Anthony Miller",
+        "score": 78,
+        "bio": {
+          "round": 1,
+          "season": 1988,
+          "college": "Tennessee"
+        }
+      },
+      "bridge": {
+        "player": "Rod Smith",
+        "score": 88.5,
+        "bio": null
+      },
+      "modern": {
+        "player": "Demaryius Thomas",
+        "score": 83.5,
+        "bio": {
+          "round": 1,
+          "season": 2010,
+          "college": "Georgia Tech"
+        }
+      }
+    },
+    "RB": {
+      "all_time": {
+        "player": "Terrell Davis",
+        "score": 95.9,
+        "bio": {
+          "round": 6,
+          "season": 1995,
+          "college": "Georgia"
+        }
+      },
+      "classic": {
+        "player": "Floyd Little",
+        "score": 86,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Terrell Davis",
+        "score": 95.9,
+        "bio": {
+          "round": 6,
+          "season": 1995,
+          "college": "Georgia"
+        }
+      },
+      "modern": {
+        "player": "Knowshon Moreno",
+        "score": 71.9,
+        "bio": {
+          "round": 1,
+          "season": 2009,
+          "college": "Georgia"
+        }
+      }
+    },
+    "TE": {
+      "all_time": {
+        "player": "Shannon Sharpe",
+        "score": 97.7,
+        "bio": {
+          "round": 7,
+          "season": 1990,
+          "college": "Savannah St."
+        }
+      },
+      "classic": {
+        "player": "Shannon Sharpe",
+        "score": 97.7,
+        "bio": {
+          "round": 7,
+          "season": 1990,
+          "college": "Savannah St."
+        }
+      },
+      "bridge": {
+        "player": "Shannon Sharpe",
+        "score": 97.7,
+        "bio": {
+          "round": 7,
+          "season": 1990,
+          "college": "Savannah St."
+        }
+      },
+      "modern": {
+        "player": "Julius Thomas",
+        "score": 73.8,
+        "bio": {
+          "round": 4,
+          "season": 2011,
+          "college": "Portland St."
+        }
+      }
+    },
+    "FRONT7": {
+      "all_time": {
+        "player": "Von Miller",
+        "score": 94.2,
+        "bio": {
+          "round": 1,
+          "season": 2011,
+          "college": "Texas A&M"
+        }
+      },
+      "classic": {
+        "player": "Karl Mecklenburg",
+        "score": 91,
+        "bio": {
+          "round": 12,
+          "season": 1983,
+          "college": "Minnesota"
+        }
+      },
+      "bridge": {
+        "player": "Al Wilson",
+        "score": 80.5,
+        "bio": {
+          "round": 1,
+          "season": 1999,
+          "college": "Tennessee"
+        }
+      },
+      "modern": {
+        "player": "Von Miller",
+        "score": 94.2,
+        "bio": {
+          "round": 1,
+          "season": 2011,
+          "college": "Texas A&M"
+        }
+      }
+    },
+    "DB": {
+      "all_time": {
+        "player": "Champ Bailey",
+        "score": 98.3,
+        "bio": {
+          "round": 1,
+          "season": 1999,
+          "college": "Georgia"
+        }
+      },
+      "classic": {
+        "player": "Steve Atwater",
+        "score": 94.1,
+        "bio": {
+          "round": 1,
+          "season": 1989,
+          "college": "Arkansas"
+        }
+      },
+      "bridge": {
+        "player": "Champ Bailey",
+        "score": 98.3,
+        "bio": {
+          "round": 1,
+          "season": 1999,
+          "college": "Georgia"
+        }
+      },
+      "modern": {
+        "player": "Champ Bailey",
+        "score": 98.3,
+        "bio": {
+          "round": 1,
+          "season": 1999,
+          "college": "Georgia"
+        }
+      }
+    }
+  },
+  "LV": {
+    "QB": {
+      "all_time": {
+        "player": "Ken Stabler",
+        "score": 88.2,
+        "bio": null
+      },
+      "classic": {
+        "player": "Ken Stabler",
+        "score": 88.2,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Rich Gannon",
+        "score": 86.5,
+        "bio": {
+          "round": 4,
+          "season": 1987,
+          "college": "Delaware"
+        }
+      },
+      "modern": {
+        "player": "Derek Carr",
+        "score": 81.3,
+        "bio": {
+          "round": 2,
+          "season": 2014,
+          "college": "Fresno St."
+        }
+      }
+    },
+    "WR": {
+      "all_time": {
+        "player": "Tim Brown",
+        "score": 93.5,
+        "bio": {
+          "round": 1,
+          "season": 1988,
+          "college": "Notre Dame"
+        }
+      },
+      "classic": {
+        "player": "Tim Brown",
+        "score": 93.5,
+        "bio": {
+          "round": 1,
+          "season": 1988,
+          "college": "Notre Dame"
+        }
+      },
+      "bridge": {
+        "player": "Tim Brown",
+        "score": 93.5,
+        "bio": {
+          "round": 1,
+          "season": 1988,
+          "college": "Notre Dame"
+        }
+      },
+      "modern": {
+        "player": "Davante Adams",
+        "score": 84.2,
+        "bio": {
+          "round": 2,
+          "season": 2014,
+          "college": "Fresno St."
+        }
+      }
+    },
+    "RB": {
+      "all_time": {
+        "player": "Marcus Allen",
+        "score": 94.7,
+        "bio": {
+          "round": 1,
+          "season": 1982,
+          "college": "USC"
+        }
+      },
+      "classic": {
+        "player": "Marcus Allen",
+        "score": 94.7,
+        "bio": {
+          "round": 1,
+          "season": 1982,
+          "college": "USC"
+        }
+      },
+      "bridge": {
+        "player": "Charlie Garner",
+        "score": 74.7,
+        "bio": {
+          "round": 2,
+          "season": 1994,
+          "college": "Tennessee"
+        }
+      },
+      "modern": {
+        "player": "Josh Jacobs",
+        "score": 85.2,
+        "bio": {
+          "round": 1,
+          "season": 2019,
+          "college": "Alabama"
+        }
+      }
+    },
+    "TE": {
+      "all_time": {
+        "player": "Dave Casper",
+        "score": 94.5,
+        "bio": null
+      },
+      "classic": {
+        "player": "Dave Casper",
+        "score": 94.5,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Zach Miller",
+        "score": 80,
+        "bio": {
+          "round": 2,
+          "season": 2007,
+          "college": "Arizona St."
+        }
+      },
+      "modern": {
+        "player": "Darren Waller",
+        "score": 83.5,
+        "bio": {
+          "round": 6,
+          "season": 2015,
+          "college": "Georgia Tech"
+        }
+      }
+    },
+    "FRONT7": {
+      "all_time": {
+        "player": "Khalil Mack",
+        "score": 93.4,
+        "bio": {
+          "round": 1,
+          "season": 2014,
+          "college": "Buffalo"
+        }
+      },
+      "classic": {
+        "player": "Howie Long",
+        "score": 92.4,
+        "bio": {
+          "round": 2,
+          "season": 1981,
+          "college": "Villanova"
+        }
+      },
+      "bridge": {
+        "player": "Richard Seymour",
+        "score": 81.1,
+        "bio": {
+          "round": 1,
+          "season": 2001,
+          "college": "Georgia"
+        }
+      },
+      "modern": {
+        "player": "Khalil Mack",
+        "score": 93.4,
+        "bio": {
+          "round": 1,
+          "season": 2014,
+          "college": "Buffalo"
+        }
+      }
+    },
+    "DB": {
+      "all_time": {
+        "player": "Mike Haynes",
+        "score": 98.5,
+        "bio": null
+      },
+      "classic": {
+        "player": "Mike Haynes",
+        "score": 98.5,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Charles Woodson",
+        "score": 98.4,
+        "bio": {
+          "round": 1,
+          "season": 1998,
+          "college": "Michigan"
+        }
+      },
+      "modern": {
+        "player": "Charles Woodson",
+        "score": 98.4,
+        "bio": {
+          "round": 1,
+          "season": 1998,
+          "college": "Michigan"
+        }
+      }
+    }
+  },
+  "LAR": {
+    "QB": {
+      "all_time": {
+        "player": "Kurt Warner",
+        "score": 91.6,
+        "bio": null
+      },
+      "classic": {
+        "player": "Norm Van Brocklin",
+        "score": 89,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Kurt Warner",
+        "score": 91.6,
+        "bio": null
+      },
+      "modern": {
+        "player": "Matthew Stafford",
+        "score": 89,
+        "bio": {
+          "round": 1,
+          "season": 2009,
+          "college": "Georgia"
+        }
+      }
+    },
+    "WR": {
+      "all_time": {
+        "player": "Torry Holt",
+        "score": 95.2,
+        "bio": {
+          "round": 1,
+          "season": 1999,
+          "college": "North Carolina St."
+        }
+      },
+      "classic": {
+        "player": "Isaac Bruce",
+        "score": 94.6,
+        "bio": {
+          "round": 2,
+          "season": 1994,
+          "college": "Memphis"
+        }
+      },
+      "bridge": {
+        "player": "Torry Holt",
+        "score": 95.2,
+        "bio": {
+          "round": 1,
+          "season": 1999,
+          "college": "North Carolina St."
+        }
+      },
+      "modern": {
+        "player": "Cooper Kupp",
+        "score": 87.5,
+        "bio": {
+          "round": 3,
+          "season": 2017,
+          "college": "Eastern Washington"
+        }
+      }
+    },
+    "RB": {
+      "all_time": {
+        "player": "Marshall Faulk",
+        "score": 98.3,
+        "bio": {
+          "round": 1,
+          "season": 1994,
+          "college": "San Diego St."
+        }
+      },
+      "classic": {
+        "player": "Eric Dickerson",
+        "score": 97.7,
+        "bio": {
+          "round": 1,
+          "season": 1983,
+          "college": "SMU"
+        }
+      },
+      "bridge": {
+        "player": "Marshall Faulk",
+        "score": 98.3,
+        "bio": {
+          "round": 1,
+          "season": 1994,
+          "college": "San Diego St."
+        }
+      },
+      "modern": {
+        "player": "Steven Jackson",
+        "score": 91.7,
+        "bio": {
+          "round": 1,
+          "season": 2004,
+          "college": "Oregon St."
+        }
+      }
+    },
+    "TE": {
+      "all_time": {
+        "player": "Tyler Higbee",
+        "score": 76.5,
+        "bio": {
+          "round": 4,
+          "season": 2016,
+          "college": "Western Kentucky"
+        }
+      },
+      "classic": {
+        "player": "Pete Holohan",
+        "score": 72.7,
+        "bio": {
+          "round": 7,
+          "season": 1981,
+          "college": "Notre Dame"
+        }
+      },
+      "bridge": {
+        "player": "Ernie Conwell",
+        "score": 71.4,
+        "bio": {
+          "round": 2,
+          "season": 1996,
+          "college": "Washington"
+        }
+      },
+      "modern": {
+        "player": "Tyler Higbee",
+        "score": 76.5,
+        "bio": {
+          "round": 4,
+          "season": 2016,
+          "college": "Western Kentucky"
+        }
+      }
+    },
+    "FRONT7": {
+      "all_time": {
+        "player": "Aaron Donald",
+        "score": 99.6,
+        "bio": {
+          "round": 1,
+          "season": 2014,
+          "college": "Pittsburgh"
+        }
+      },
+      "classic": {
+        "player": "Deacon Jones",
+        "score": 98.9,
+        "bio": null
+      },
+      "bridge": null,
+      "modern": {
+        "player": "Aaron Donald",
+        "score": 99.6,
+        "bio": {
+          "round": 1,
+          "season": 2014,
+          "college": "Pittsburgh"
+        }
+      }
+    },
+    "DB": {
+      "all_time": {
+        "player": "Night Train Lane",
+        "score": 98,
+        "bio": null
+      },
+      "classic": {
+        "player": "Night Train Lane",
+        "score": 98,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Aeneas Williams",
+        "score": 96.5,
+        "bio": {
+          "round": 3,
+          "season": 1991,
+          "college": "Southern"
+        }
+      },
+      "modern": {
+        "player": "Jalen Ramsey",
+        "score": 93.1,
+        "bio": {
+          "round": 1,
+          "season": 2016,
+          "college": "Florida St."
+        }
+      }
+    }
+  },
+  "BUF": {
+    "QB": {
+      "all_time": {
+        "player": "Josh Allen",
+        "score": 94.7,
+        "bio": {
+          "round": 1,
+          "season": 2018,
+          "college": "Wyoming"
+        }
+      },
+      "classic": {
+        "player": "Jim Kelly",
+        "score": 91.4,
+        "bio": {
+          "round": 1,
+          "season": 1983,
+          "college": "Miami (FL)"
+        }
+      },
+      "bridge": {
+        "player": "Jim Kelly",
+        "score": 91.4,
+        "bio": {
+          "round": 1,
+          "season": 1983,
+          "college": "Miami (FL)"
+        }
+      },
+      "modern": {
+        "player": "Josh Allen",
+        "score": 94.7,
+        "bio": {
+          "round": 1,
+          "season": 2018,
+          "college": "Wyoming"
+        }
+      }
+    },
+    "WR": {
+      "all_time": {
+        "player": "Andre Reed",
+        "score": 91.1,
+        "bio": {
+          "round": 4,
+          "season": 1985,
+          "college": "Kutztown (PA)"
+        }
+      },
+      "classic": {
+        "player": "Andre Reed",
+        "score": 91.1,
+        "bio": {
+          "round": 4,
+          "season": 1985,
+          "college": "Kutztown (PA)"
+        }
+      },
+      "bridge": {
+        "player": "Andre Reed",
+        "score": 91.1,
+        "bio": {
+          "round": 4,
+          "season": 1985,
+          "college": "Kutztown (PA)"
+        }
+      },
+      "modern": {
+        "player": "Stefon Diggs",
+        "score": 88.3,
+        "bio": {
+          "round": 5,
+          "season": 2015,
+          "college": "Maryland"
+        }
+      }
+    },
+    "RB": {
+      "all_time": {
+        "player": "O.J. Simpson",
+        "score": 97.4,
+        "bio": null
+      },
+      "classic": {
+        "player": "O.J. Simpson",
+        "score": 97.4,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Thurman Thomas",
+        "score": 96.5,
+        "bio": {
+          "round": 2,
+          "season": 1988,
+          "college": "Oklahoma St."
+        }
+      },
+      "modern": {
+        "player": "LeSean McCoy",
+        "score": 84.2,
+        "bio": {
+          "round": 2,
+          "season": 2009,
+          "college": "Pittsburgh"
+        }
+      }
+    },
+    "TE": {
+      "all_time": {
+        "player": "Dawson Knox",
+        "score": 74.2,
+        "bio": {
+          "round": 3,
+          "season": 2019,
+          "college": "Mississippi"
+        }
+      },
+      "classic": {
+        "player": "Paul Costa",
+        "score": 74.1,
+        "bio": null
+      },
+      "bridge": null,
+      "modern": {
+        "player": "Dawson Knox",
+        "score": 74.2,
+        "bio": {
+          "round": 3,
+          "season": 2019,
+          "college": "Mississippi"
+        }
+      }
+    },
+    "FRONT7": {
+      "all_time": {
+        "player": "Bruce Smith",
+        "score": 99.4,
+        "bio": {
+          "round": 1,
+          "season": 1985,
+          "college": "Virginia Tech"
+        }
+      },
+      "classic": {
+        "player": "Bruce Smith",
+        "score": 99.4,
+        "bio": {
+          "round": 1,
+          "season": 1985,
+          "college": "Virginia Tech"
+        }
+      },
+      "bridge": {
+        "player": "Bruce Smith",
+        "score": 99.4,
+        "bio": {
+          "round": 1,
+          "season": 1985,
+          "college": "Virginia Tech"
+        }
+      },
+      "modern": {
+        "player": "Kyle Williams",
+        "score": 83,
+        "bio": {
+          "round": 5,
+          "season": 2006,
+          "college": "LSU"
+        }
+      }
+    },
+    "DB": {
+      "all_time": {
+        "player": "Butch Byrd",
+        "score": 90,
+        "bio": null
+      },
+      "classic": {
+        "player": "Butch Byrd",
+        "score": 90,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Jairus Byrd",
+        "score": 80.3,
+        "bio": {
+          "round": 2,
+          "season": 2009,
+          "college": "Oregon"
+        }
+      },
+      "modern": {
+        "player": "Micah Hyde",
+        "score": 82.5,
+        "bio": {
+          "round": 5,
+          "season": 2013,
+          "college": "Iowa"
+        }
+      }
+    }
+  },
+  "ATL": {
+    "QB": {
+      "all_time": {
+        "player": "Matt Ryan",
+        "score": 87.5,
+        "bio": {
+          "round": 1,
+          "season": 2008,
+          "college": "Boston Col."
+        }
+      },
+      "classic": {
+        "player": "Steve Bartkowski",
+        "score": 76.2,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Matt Ryan",
+        "score": 87.5,
+        "bio": {
+          "round": 1,
+          "season": 2008,
+          "college": "Boston Col."
+        }
+      },
+      "modern": {
+        "player": "Matt Ryan",
+        "score": 87.5,
+        "bio": {
+          "round": 1,
+          "season": 2008,
+          "college": "Boston Col."
+        }
+      }
+    },
+    "WR": {
+      "all_time": {
+        "player": "Julio Jones",
+        "score": 96.7,
+        "bio": {
+          "round": 1,
+          "season": 2011,
+          "college": "Alabama"
+        }
+      },
+      "classic": {
+        "player": "Andre Rison",
+        "score": 83.4,
+        "bio": {
+          "round": 1,
+          "season": 1989,
+          "college": "Michigan St."
+        }
+      },
+      "bridge": {
+        "player": "Roddy White",
+        "score": 89.4,
+        "bio": {
+          "round": 1,
+          "season": 2005,
+          "college": "Ala-Birmingham"
+        }
+      },
+      "modern": {
+        "player": "Julio Jones",
+        "score": 96.7,
+        "bio": {
+          "round": 1,
+          "season": 2011,
+          "college": "Alabama"
+        }
+      }
+    },
+    "RB": {
+      "all_time": {
+        "player": "William Andrews",
+        "score": 91.2,
+        "bio": null
+      },
+      "classic": {
+        "player": "William Andrews",
+        "score": 91.2,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Warrick Dunn",
+        "score": 82.7,
+        "bio": {
+          "round": 1,
+          "season": 1997,
+          "college": "Florida St."
+        }
+      },
+      "modern": {
+        "player": "Bijan Robinson",
+        "score": 82,
+        "bio": {
+          "round": 1,
+          "season": 2023,
+          "college": "Texas"
+        }
+      }
+    },
+    "TE": {
+      "all_time": {
+        "player": "Tony Gonzalez",
+        "score": 94.3,
+        "bio": {
+          "round": 1,
+          "season": 1997,
+          "college": "California"
+        }
+      },
+      "classic": {
+        "player": "Jim Mitchell",
+        "score": 79.1,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Tony Gonzalez",
+        "score": 94.3,
+        "bio": {
+          "round": 1,
+          "season": 1997,
+          "college": "California"
+        }
+      },
+      "modern": {
+        "player": "Tony Gonzalez",
+        "score": 94.3,
+        "bio": {
+          "round": 1,
+          "season": 1997,
+          "college": "California"
+        }
+      }
+    },
+    "FRONT7": {
+      "all_time": {
+        "player": "Claude Humphrey",
+        "score": 88.3,
+        "bio": null
+      },
+      "classic": {
+        "player": "Claude Humphrey",
+        "score": 88.3,
+        "bio": null
+      },
+      "bridge": {
+        "player": "John Abraham",
+        "score": 84,
+        "bio": {
+          "round": 1,
+          "season": 2000,
+          "college": "South Carolina"
+        }
+      },
+      "modern": {
+        "player": "John Abraham",
+        "score": 84,
+        "bio": {
+          "round": 1,
+          "season": 2000,
+          "college": "South Carolina"
+        }
+      }
+    },
+    "DB": {
+      "all_time": {
+        "player": "Deion Sanders",
+        "score": 96,
+        "bio": {
+          "round": 1,
+          "season": 1989,
+          "college": "Florida St."
+        }
+      },
+      "classic": {
+        "player": "Deion Sanders",
+        "score": 96,
+        "bio": {
+          "round": 1,
+          "season": 1989,
+          "college": "Florida St."
+        }
+      },
+      "bridge": {
+        "player": "Ray Buchanan",
+        "score": 74.2,
+        "bio": {
+          "round": 3,
+          "season": 1993,
+          "college": "Louisville"
+        }
+      },
+      "modern": {
+        "player": "Jessie Bates III",
+        "score": 82.9,
+        "bio": {
+          "round": 2,
+          "season": 2018,
+          "college": "Wake Forest"
+        }
+      }
+    }
+  },
+  "CLE": {
+    "QB": {
+      "all_time": {
+        "player": "Otto Graham",
+        "score": 98,
+        "bio": null
+      },
+      "classic": {
+        "player": "Otto Graham",
+        "score": 98,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Tim Couch",
+        "score": 71.2,
+        "bio": {
+          "round": 1,
+          "season": 1999,
+          "college": "Kentucky"
+        }
+      },
+      "modern": {
+        "player": "Baker Mayfield",
+        "score": 71.9,
+        "bio": {
+          "round": 1,
+          "season": 2018,
+          "college": "Oklahoma"
+        }
+      }
+    },
+    "WR": {
+      "all_time": {
+        "player": "Gary Collins",
+        "score": 85.1,
+        "bio": null
+      },
+      "classic": {
+        "player": "Gary Collins",
+        "score": 85.1,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Braylon Edwards",
+        "score": 71.9,
+        "bio": {
+          "round": 1,
+          "season": 2005,
+          "college": "Michigan"
+        }
+      },
+      "modern": {
+        "player": "Jarvis Landry",
+        "score": 73,
+        "bio": {
+          "round": 2,
+          "season": 2014,
+          "college": "LSU"
+        }
+      }
+    },
+    "RB": {
+      "all_time": {
+        "player": "Jim Brown",
+        "score": 100,
+        "bio": null
+      },
+      "classic": {
+        "player": "Jim Brown",
+        "score": 100,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Jamal Lewis",
+        "score": 85.9,
+        "bio": {
+          "round": 1,
+          "season": 2000,
+          "college": "Tennessee"
+        }
+      },
+      "modern": {
+        "player": "Nick Chubb",
+        "score": 82.7,
+        "bio": {
+          "round": 2,
+          "season": 2018,
+          "college": "Georgia"
+        }
+      }
+    },
+    "TE": {
+      "all_time": {
+        "player": "Ozzie Newsome",
+        "score": 96.6,
+        "bio": null
+      },
+      "classic": {
+        "player": "Ozzie Newsome",
+        "score": 96.6,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Kellen Winslow",
+        "score": 76.4,
+        "bio": {
+          "round": 1,
+          "season": 2004,
+          "college": "Miami (FL)"
+        }
+      },
+      "modern": {
+        "player": "David Njoku",
+        "score": 74.5,
+        "bio": {
+          "round": 1,
+          "season": 2017,
+          "college": "Miami (FL)"
+        }
+      }
+    },
+    "FRONT7": {
+      "all_time": {
+        "player": "Myles Garrett",
+        "score": 97.2,
+        "bio": {
+          "round": 1,
+          "season": 2017,
+          "college": "Texas A&M"
+        }
+      },
+      "classic": {
+        "player": "Bill Willis",
+        "score": 91,
+        "bio": null
+      },
+      "bridge": null,
+      "modern": {
+        "player": "Myles Garrett",
+        "score": 97.2,
+        "bio": {
+          "round": 1,
+          "season": 2017,
+          "college": "Texas A&M"
+        }
+      }
+    },
+    "DB": {
+      "all_time": {
+        "player": "Hanford Dixon",
+        "score": 88.5,
+        "bio": {
+          "round": 1,
+          "season": 1981,
+          "college": "Southern Miss"
+        }
+      },
+      "classic": {
+        "player": "Hanford Dixon",
+        "score": 88.5,
+        "bio": {
+          "round": 1,
+          "season": 1981,
+          "college": "Southern Miss"
+        }
+      },
+      "bridge": null,
+      "modern": {
+        "player": "Joe Haden",
+        "score": 79.8,
+        "bio": {
+          "round": 1,
+          "season": 2010,
+          "college": "Florida"
+        }
+      }
+    }
+  },
+  "SF": {
+    "QB": {
+      "all_time": {
+        "player": "Joe Montana",
+        "score": 98.5,
+        "bio": null
+      },
+      "classic": {
+        "player": "Joe Montana",
+        "score": 98.5,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Steve Young",
+        "score": 95.1,
+        "bio": null
+      },
+      "modern": {
+        "player": "Brock Purdy",
+        "score": 76.9,
+        "bio": {
+          "round": 7,
+          "season": 2022,
+          "college": "Iowa St."
+        }
+      }
+    },
+    "WR": {
+      "all_time": {
+        "player": "Jerry Rice",
+        "score": 100,
+        "bio": {
+          "round": 1,
+          "season": 1985,
+          "college": "Miss. Valley St."
+        }
+      },
+      "classic": {
+        "player": "Jerry Rice",
+        "score": 100,
+        "bio": {
+          "round": 1,
+          "season": 1985,
+          "college": "Miss. Valley St."
+        }
+      },
+      "bridge": {
+        "player": "Jerry Rice",
+        "score": 100,
+        "bio": {
+          "round": 1,
+          "season": 1985,
+          "college": "Miss. Valley St."
+        }
+      },
+      "modern": {
+        "player": "Deebo Samuel",
+        "score": 80.1,
+        "bio": {
+          "round": 2,
+          "season": 2019,
+          "college": "South Carolina"
+        }
+      }
+    },
+    "RB": {
+      "all_time": {
+        "player": "Christian McCaffrey",
+        "score": 96.2,
+        "bio": {
+          "round": 1,
+          "season": 2017,
+          "college": "Stanford"
+        }
+      },
+      "classic": {
+        "player": "Roger Craig",
+        "score": 95,
+        "bio": {
+          "round": 2,
+          "season": 1983,
+          "college": "Nebraska"
+        }
+      },
+      "bridge": {
+        "player": "Frank Gore",
+        "score": 90.7,
+        "bio": {
+          "round": 3,
+          "season": 2005,
+          "college": "Miami (FL)"
+        }
+      },
+      "modern": {
+        "player": "Christian McCaffrey",
+        "score": 96.2,
+        "bio": {
+          "round": 1,
+          "season": 2017,
+          "college": "Stanford"
+        }
+      }
+    },
+    "TE": {
+      "all_time": {
+        "player": "George Kittle",
+        "score": 94.1,
+        "bio": {
+          "round": 5,
+          "season": 2017,
+          "college": "Iowa"
+        }
+      },
+      "classic": {
+        "player": "Brent Jones",
+        "score": 89.2,
+        "bio": {
+          "round": 5,
+          "season": 1986,
+          "college": "Santa Clara"
+        }
+      },
+      "bridge": {
+        "player": "Brent Jones",
+        "score": 89.2,
+        "bio": {
+          "round": 5,
+          "season": 1986,
+          "college": "Santa Clara"
+        }
+      },
+      "modern": {
+        "player": "George Kittle",
+        "score": 94.1,
+        "bio": {
+          "round": 5,
+          "season": 2017,
+          "college": "Iowa"
+        }
+      }
+    },
+    "FRONT7": {
+      "all_time": {
+        "player": "Patrick Willis",
+        "score": 96,
+        "bio": {
+          "round": 1,
+          "season": 2007,
+          "college": "Mississippi"
+        }
+      },
+      "classic": {
+        "player": "Charles Haley",
+        "score": 92,
+        "bio": {
+          "round": 4,
+          "season": 1986,
+          "college": "James Madison"
+        }
+      },
+      "bridge": {
+        "player": "Patrick Willis",
+        "score": 96,
+        "bio": {
+          "round": 1,
+          "season": 2007,
+          "college": "Mississippi"
+        }
+      },
+      "modern": {
+        "player": "Patrick Willis",
+        "score": 96,
+        "bio": {
+          "round": 1,
+          "season": 2007,
+          "college": "Mississippi"
+        }
+      }
+    },
+    "DB": {
+      "all_time": {
+        "player": "Ronnie Lott",
+        "score": 99.5,
+        "bio": {
+          "round": 1,
+          "season": 1981,
+          "college": "USC"
+        }
+      },
+      "classic": {
+        "player": "Ronnie Lott",
+        "score": 99.5,
+        "bio": {
+          "round": 1,
+          "season": 1981,
+          "college": "USC"
+        }
+      },
+      "bridge": {
+        "player": "Merton Hanks",
+        "score": 85.2,
+        "bio": {
+          "round": 5,
+          "season": 1991,
+          "college": "Iowa"
+        }
+      },
+      "modern": {
+        "player": "Richard Sherman",
+        "score": 86,
+        "bio": {
+          "round": 5,
+          "season": 2011,
+          "college": "Stanford"
+        }
+      }
+    }
+  },
+  "WAS": {
+    "QB": {
+      "all_time": {
+        "player": "Sammy Baugh",
+        "score": 97,
+        "bio": null
+      },
+      "classic": {
+        "player": "Sammy Baugh",
+        "score": 97,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Trent Green",
+        "score": 75.3,
+        "bio": {
+          "round": 8,
+          "season": 1993,
+          "college": "Indiana"
+        }
+      },
+      "modern": {
+        "player": "Jayden Daniels",
+        "score": 79,
+        "bio": {
+          "round": 1,
+          "season": 2024,
+          "college": "LSU"
+        }
+      }
+    },
+    "WR": {
+      "all_time": {
+        "player": "Art Monk",
+        "score": 90.9,
+        "bio": {
+          "round": 1,
+          "season": 1980,
+          "college": "Syracuse"
+        }
+      },
+      "classic": {
+        "player": "Art Monk",
+        "score": 90.9,
+        "bio": {
+          "round": 1,
+          "season": 1980,
+          "college": "Syracuse"
+        }
+      },
+      "bridge": {
+        "player": "Henry Ellard",
+        "score": 80.5,
+        "bio": {
+          "round": 2,
+          "season": 1983,
+          "college": "Fresno St."
+        }
+      },
+      "modern": {
+        "player": "Terry McLaurin",
+        "score": 79.8,
+        "bio": {
+          "round": 3,
+          "season": 2019,
+          "college": "Ohio St."
+        }
+      }
+    },
+    "RB": {
+      "all_time": {
+        "player": "Larry Brown",
+        "score": 92,
+        "bio": null
+      },
+      "classic": {
+        "player": "Larry Brown",
+        "score": 92,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Stephen Davis",
+        "score": 74.9,
+        "bio": {
+          "round": 4,
+          "season": 1996,
+          "college": "Auburn"
+        }
+      },
+      "modern": {
+        "player": "Alfred Morris",
+        "score": 76.5,
+        "bio": {
+          "round": 6,
+          "season": 2012,
+          "college": "Florida Atlantic"
+        }
+      }
+    },
+    "TE": {
+      "all_time": {
+        "player": "Jerry Smith",
+        "score": 88.4,
+        "bio": null
+      },
+      "classic": {
+        "player": "Jerry Smith",
+        "score": 88.4,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Chris Cooley",
+        "score": 78.9,
+        "bio": {
+          "round": 3,
+          "season": 2004,
+          "college": "Utah St."
+        }
+      },
+      "modern": {
+        "player": "Jordan Reed",
+        "score": 82.9,
+        "bio": {
+          "round": 3,
+          "season": 2013,
+          "college": "Florida"
+        }
+      }
+    },
+    "FRONT7": {
+      "all_time": {
+        "player": "Chris Hanburger",
+        "score": 90.7,
+        "bio": null
+      },
+      "classic": {
+        "player": "Chris Hanburger",
+        "score": 90.7,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Bruce Smith",
+        "score": 81.2,
+        "bio": {
+          "round": 1,
+          "season": 1985,
+          "college": "Virginia Tech"
+        }
+      },
+      "modern": {
+        "player": "Bobby Wagner",
+        "score": 82.4,
+        "bio": {
+          "round": 2,
+          "season": 2012,
+          "college": "Utah St."
+        }
+      }
+    },
+    "DB": {
+      "all_time": {
+        "player": "Darrell Green",
+        "score": 97.6,
+        "bio": {
+          "round": 1,
+          "season": 1983,
+          "college": "Texas A&M-Kingsville"
+        }
+      },
+      "classic": {
+        "player": "Darrell Green",
+        "score": 97.6,
+        "bio": {
+          "round": 1,
+          "season": 1983,
+          "college": "Texas A&M-Kingsville"
+        }
+      },
+      "bridge": {
+        "player": "Darrell Green",
+        "score": 97.6,
+        "bio": {
+          "round": 1,
+          "season": 1983,
+          "college": "Texas A&M-Kingsville"
+        }
+      },
+      "modern": null
+    }
+  },
+  "CAR": {
+    "QB": {
+      "all_time": {
+        "player": "Cam Newton",
+        "score": 85.7,
+        "bio": {
+          "round": 1,
+          "season": 2011,
+          "college": "Auburn"
+        }
+      },
+      "classic": null,
+      "bridge": {
+        "player": "Jake Delhomme",
+        "score": 73.8,
+        "bio": null
+      },
+      "modern": {
+        "player": "Cam Newton",
+        "score": 85.7,
+        "bio": {
+          "round": 1,
+          "season": 2011,
+          "college": "Auburn"
+        }
+      }
+    },
+    "WR": {
+      "all_time": {
+        "player": "Steve Smith Sr.",
+        "score": 93.2,
+        "bio": {
+          "round": 3,
+          "season": 2001,
+          "college": "Utah"
+        }
+      },
+      "classic": null,
+      "bridge": {
+        "player": "Steve Smith Sr.",
+        "score": 93.2,
+        "bio": {
+          "round": 3,
+          "season": 2001,
+          "college": "Utah"
+        }
+      },
+      "modern": {
+        "player": "Steve Smith Sr.",
+        "score": 93.2,
+        "bio": {
+          "round": 3,
+          "season": 2001,
+          "college": "Utah"
+        }
+      }
+    },
+    "RB": {
+      "all_time": {
+        "player": "Christian McCaffrey",
+        "score": 92.6,
+        "bio": {
+          "round": 1,
+          "season": 2017,
+          "college": "Stanford"
+        }
+      },
+      "classic": null,
+      "bridge": {
+        "player": "DeAngelo Williams",
+        "score": 78,
+        "bio": {
+          "round": 1,
+          "season": 2006,
+          "college": "Memphis"
+        }
+      },
+      "modern": {
+        "player": "Christian McCaffrey",
+        "score": 92.6,
+        "bio": {
+          "round": 1,
+          "season": 2017,
+          "college": "Stanford"
+        }
+      }
+    },
+    "TE": {
+      "all_time": {
+        "player": "Greg Olsen",
+        "score": 90.4,
+        "bio": {
+          "round": 1,
+          "season": 2007,
+          "college": "Miami (FL)"
+        }
+      },
+      "classic": null,
+      "bridge": {
+        "player": "Wesley Walls",
+        "score": 88.4,
+        "bio": {
+          "round": 2,
+          "season": 1989,
+          "college": "Mississippi"
+        }
+      },
+      "modern": {
+        "player": "Greg Olsen",
+        "score": 90.4,
+        "bio": {
+          "round": 1,
+          "season": 2007,
+          "college": "Miami (FL)"
+        }
+      }
+    },
+    "FRONT7": {
+      "all_time": {
+        "player": "Luke Kuechly",
+        "score": 95.7,
+        "bio": {
+          "round": 1,
+          "season": 2012,
+          "college": "Boston Col."
+        }
+      },
+      "classic": null,
+      "bridge": {
+        "player": "Julius Peppers",
+        "score": 95.2,
+        "bio": {
+          "round": 1,
+          "season": 2002,
+          "college": "North Carolina"
+        }
+      },
+      "modern": {
+        "player": "Luke Kuechly",
+        "score": 95.7,
+        "bio": {
+          "round": 1,
+          "season": 2012,
+          "college": "Boston Col."
+        }
+      }
+    },
+    "DB": {
+      "all_time": {
+        "player": "Josh Norman",
+        "score": 77.3,
+        "bio": {
+          "round": 5,
+          "season": 2012,
+          "college": "Coastal Carolina"
+        }
+      },
+      "classic": null,
+      "bridge": {
+        "player": "Captain Munnerlyn",
+        "score": 74.9,
+        "bio": {
+          "round": 7,
+          "season": 2009,
+          "college": "South Carolina"
+        }
+      },
+      "modern": {
+        "player": "Josh Norman",
+        "score": 77.3,
+        "bio": {
+          "round": 5,
+          "season": 2012,
+          "college": "Coastal Carolina"
+        }
+      }
+    }
+  },
+  "TB": {
+    "QB": {
+      "all_time": {
+        "player": "Tom Brady",
+        "score": 91.5,
+        "bio": {
+          "round": 6,
+          "season": 2000,
+          "college": "Michigan"
+        }
+      },
+      "classic": {
+        "player": "Doug Williams",
+        "score": 72.8,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Trent Dilfer",
+        "score": 72.3,
+        "bio": {
+          "round": 1,
+          "season": 1994,
+          "college": "Fresno St."
+        }
+      },
+      "modern": {
+        "player": "Tom Brady",
+        "score": 91.5,
+        "bio": {
+          "round": 6,
+          "season": 2000,
+          "college": "Michigan"
+        }
+      }
+    },
+    "WR": {
+      "all_time": {
+        "player": "Mike Evans",
+        "score": 92.4,
+        "bio": {
+          "round": 1,
+          "season": 2014,
+          "college": "Texas A&M"
+        }
+      },
+      "classic": {
+        "player": "Kevin House",
+        "score": 72.6,
+        "bio": {
+          "round": 2,
+          "season": 1980,
+          "college": "Southern Illinois"
+        }
+      },
+      "bridge": {
+        "player": "Keyshawn Johnson",
+        "score": 74,
+        "bio": {
+          "round": 1,
+          "season": 1996,
+          "college": "USC"
+        }
+      },
+      "modern": {
+        "player": "Mike Evans",
+        "score": 92.4,
+        "bio": {
+          "round": 1,
+          "season": 2014,
+          "college": "Texas A&M"
+        }
+      }
+    },
+    "RB": {
+      "all_time": {
+        "player": "Warrick Dunn",
+        "score": 84.9,
+        "bio": {
+          "round": 1,
+          "season": 1997,
+          "college": "Florida St."
+        }
+      },
+      "classic": {
+        "player": "James Wilder",
+        "score": 80.3,
+        "bio": {
+          "round": 2,
+          "season": 1981,
+          "college": "Missouri"
+        }
+      },
+      "bridge": {
+        "player": "Warrick Dunn",
+        "score": 84.9,
+        "bio": {
+          "round": 1,
+          "season": 1997,
+          "college": "Florida St."
+        }
+      },
+      "modern": {
+        "player": "Doug Martin",
+        "score": 75.2,
+        "bio": {
+          "round": 1,
+          "season": 2012,
+          "college": "Boise St."
+        }
+      }
+    },
+    "TE": {
+      "all_time": {
+        "player": "Rob Gronkowski",
+        "score": 79.9,
+        "bio": {
+          "round": 2,
+          "season": 2010,
+          "college": "Arizona"
+        }
+      },
+      "classic": {
+        "player": "Jimmie Giles",
+        "score": 78,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Kellen Winslow",
+        "score": 72.9,
+        "bio": {
+          "round": 1,
+          "season": 2004,
+          "college": "Miami (FL)"
+        }
+      },
+      "modern": {
+        "player": "Rob Gronkowski",
+        "score": 79.9,
+        "bio": {
+          "round": 2,
+          "season": 2010,
+          "college": "Arizona"
+        }
+      }
+    },
+    "FRONT7": {
+      "all_time": {
+        "player": "Derrick Brooks",
+        "score": 96.5,
+        "bio": {
+          "round": 1,
+          "season": 1995,
+          "college": "Florida St."
+        }
+      },
+      "classic": {
+        "player": "Lee Roy Selmon",
+        "score": 92.3,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Derrick Brooks",
+        "score": 96.5,
+        "bio": {
+          "round": 1,
+          "season": 1995,
+          "college": "Florida St."
+        }
+      },
+      "modern": {
+        "player": "Lavonte David",
+        "score": 86.3,
+        "bio": {
+          "round": 2,
+          "season": 2012,
+          "college": "Nebraska"
+        }
+      }
+    },
+    "DB": {
+      "all_time": {
+        "player": "Ronde Barber",
+        "score": 95.4,
+        "bio": {
+          "round": 3,
+          "season": 1997,
+          "college": "Virginia"
+        }
+      },
+      "classic": {
+        "player": "John Lynch",
+        "score": 87,
+        "bio": {
+          "round": 3,
+          "season": 1993,
+          "college": "Stanford"
+        }
+      },
+      "bridge": {
+        "player": "Ronde Barber",
+        "score": 95.4,
+        "bio": {
+          "round": 3,
+          "season": 1997,
+          "college": "Virginia"
+        }
+      },
+      "modern": {
+        "player": "Ronde Barber",
+        "score": 95.4,
+        "bio": {
+          "round": 3,
+          "season": 1997,
+          "college": "Virginia"
+        }
+      }
+    }
+  },
+  "CIN": {
+    "QB": {
+      "all_time": {
+        "player": "Joe Burrow",
+        "score": 89.2,
+        "bio": {
+          "round": 1,
+          "season": 2020,
+          "college": "LSU"
+        }
+      },
+      "classic": {
+        "player": "Ken Anderson",
+        "score": 88.8,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Boomer Esiason",
+        "score": 84.6,
+        "bio": {
+          "round": 2,
+          "season": 1984,
+          "college": "Maryland"
+        }
+      },
+      "modern": {
+        "player": "Joe Burrow",
+        "score": 89.2,
+        "bio": {
+          "round": 1,
+          "season": 2020,
+          "college": "LSU"
+        }
+      }
+    },
+    "WR": {
+      "all_time": {
+        "player": "Ja'Marr Chase",
+        "score": 92.6,
+        "bio": {
+          "round": 1,
+          "season": 2021,
+          "college": "LSU"
+        }
+      },
+      "classic": {
+        "player": "Cris Collinsworth",
+        "score": 82.5,
+        "bio": {
+          "round": 2,
+          "season": 1981,
+          "college": "Florida"
+        }
+      },
+      "bridge": {
+        "player": "Chad Johnson",
+        "score": 90.6,
+        "bio": {
+          "round": 2,
+          "season": 2001,
+          "college": "Oregon St."
+        }
+      },
+      "modern": {
+        "player": "Ja'Marr Chase",
+        "score": 92.6,
+        "bio": {
+          "round": 1,
+          "season": 2021,
+          "college": "LSU"
+        }
+      }
+    },
+    "RB": {
+      "all_time": {
+        "player": "Corey Dillon",
+        "score": 89.6,
+        "bio": {
+          "round": 2,
+          "season": 1997,
+          "college": "Washington"
+        }
+      },
+      "classic": {
+        "player": "James Brooks",
+        "score": 86.4,
+        "bio": {
+          "round": 1,
+          "season": 1981,
+          "college": "Auburn"
+        }
+      },
+      "bridge": {
+        "player": "Corey Dillon",
+        "score": 89.6,
+        "bio": {
+          "round": 2,
+          "season": 1997,
+          "college": "Washington"
+        }
+      },
+      "modern": {
+        "player": "Joe Mixon",
+        "score": 80.2,
+        "bio": {
+          "round": 2,
+          "season": 2017,
+          "college": "Oklahoma"
+        }
+      }
+    },
+    "TE": {
+      "all_time": {
+        "player": "Bob Trumpy",
+        "score": 85.3,
+        "bio": null
+      },
+      "classic": {
+        "player": "Bob Trumpy",
+        "score": 85.3,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Tony McGee",
+        "score": 71.9,
+        "bio": {
+          "round": 2,
+          "season": 1993,
+          "college": "Michigan"
+        }
+      },
+      "modern": {
+        "player": "Jermaine Gresham",
+        "score": 75.2,
+        "bio": {
+          "round": 1,
+          "season": 2010,
+          "college": "Oklahoma"
+        }
+      }
+    },
+    "FRONT7": {
+      "all_time": {
+        "player": "Geno Atkins",
+        "score": 89.4,
+        "bio": {
+          "round": 4,
+          "season": 2010,
+          "college": "Georgia"
+        }
+      },
+      "classic": {
+        "player": "Bill Bergey",
+        "score": 76.7,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Takeo Spikes",
+        "score": 76,
+        "bio": {
+          "round": 1,
+          "season": 1998,
+          "college": "Auburn"
+        }
+      },
+      "modern": {
+        "player": "Geno Atkins",
+        "score": 89.4,
+        "bio": {
+          "round": 4,
+          "season": 2010,
+          "college": "Georgia"
+        }
+      }
+    },
+    "DB": {
+      "all_time": {
+        "player": "Ken Riley",
+        "score": 91.8,
+        "bio": null
+      },
+      "classic": {
+        "player": "Ken Riley",
+        "score": 91.8,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Leon Hall",
+        "score": 81.5,
+        "bio": {
+          "round": 1,
+          "season": 2007,
+          "college": "Michigan"
+        }
+      },
+      "modern": {
+        "player": "Leon Hall",
+        "score": 81.5,
+        "bio": {
+          "round": 1,
+          "season": 2007,
+          "college": "Michigan"
+        }
+      }
+    }
+  },
+  "KC": {
+    "QB": {
+      "all_time": {
+        "player": "Patrick Mahomes",
+        "score": 99,
+        "bio": {
+          "round": 1,
+          "season": 2017,
+          "college": "Texas Tech"
+        }
+      },
+      "classic": {
+        "player": "Len Dawson",
+        "score": 90.6,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Trent Green",
+        "score": 82.1,
+        "bio": {
+          "round": 8,
+          "season": 1993,
+          "college": "Indiana"
+        }
+      },
+      "modern": {
+        "player": "Patrick Mahomes",
+        "score": 99,
+        "bio": {
+          "round": 1,
+          "season": 2017,
+          "college": "Texas Tech"
+        }
+      }
+    },
+    "WR": {
+      "all_time": {
+        "player": "Tyreek Hill",
+        "score": 95,
+        "bio": {
+          "round": 5,
+          "season": 2016,
+          "college": "West Alabama"
+        }
+      },
+      "classic": {
+        "player": "Otis Taylor",
+        "score": 87.7,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Dwayne Bowe",
+        "score": 78.3,
+        "bio": {
+          "round": 1,
+          "season": 2007,
+          "college": "LSU"
+        }
+      },
+      "modern": {
+        "player": "Tyreek Hill",
+        "score": 95,
+        "bio": {
+          "round": 5,
+          "season": 2016,
+          "college": "West Alabama"
+        }
+      }
+    },
+    "RB": {
+      "all_time": {
+        "player": "Priest Holmes",
+        "score": 95.3,
+        "bio": null
+      },
+      "classic": {
+        "player": "Abner Haynes",
+        "score": 84.7,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Priest Holmes",
+        "score": 95.3,
+        "bio": null
+      },
+      "modern": {
+        "player": "Jamaal Charles",
+        "score": 92.8,
+        "bio": {
+          "round": 3,
+          "season": 2008,
+          "college": "Texas"
+        }
+      }
+    },
+    "TE": {
+      "all_time": {
+        "player": "Travis Kelce",
+        "score": 100,
+        "bio": {
+          "round": 3,
+          "season": 2013,
+          "college": "Cincinnati"
+        }
+      },
+      "classic": {
+        "player": "Fred Arbanas",
+        "score": 82.5,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Tony Gonzalez",
+        "score": 99.4,
+        "bio": {
+          "round": 1,
+          "season": 1997,
+          "college": "California"
+        }
+      },
+      "modern": {
+        "player": "Travis Kelce",
+        "score": 100,
+        "bio": {
+          "round": 3,
+          "season": 2013,
+          "college": "Cincinnati"
+        }
+      }
+    },
+    "FRONT7": {
+      "all_time": {
+        "player": "Derrick Thomas",
+        "score": 97.1,
+        "bio": {
+          "round": 1,
+          "season": 1989,
+          "college": "Alabama"
+        }
+      },
+      "classic": {
+        "player": "Derrick Thomas",
+        "score": 97.1,
+        "bio": {
+          "round": 1,
+          "season": 1989,
+          "college": "Alabama"
+        }
+      },
+      "bridge": {
+        "player": "Derrick Thomas",
+        "score": 97.1,
+        "bio": {
+          "round": 1,
+          "season": 1989,
+          "college": "Alabama"
+        }
+      },
+      "modern": {
+        "player": "Chris Jones",
+        "score": 92.6,
+        "bio": {
+          "round": 2,
+          "season": 2016,
+          "college": "Mississippi St."
+        }
+      }
+    },
+    "DB": {
+      "all_time": {
+        "player": "Johnny Robinson",
+        "score": 92.8,
+        "bio": null
+      },
+      "classic": {
+        "player": "Johnny Robinson",
+        "score": 92.8,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Dale Carter",
+        "score": 84.1,
+        "bio": {
+          "round": 1,
+          "season": 1992,
+          "college": "Tennessee"
+        }
+      },
+      "modern": {
+        "player": "Eric Berry",
+        "score": 85.4,
+        "bio": {
+          "round": 1,
+          "season": 2010,
+          "college": "Tennessee"
+        }
+      }
+    }
+  },
+  "DAL": {
+    "QB": {
+      "all_time": {
+        "player": "Roger Staubach",
+        "score": 93.8,
+        "bio": null
+      },
+      "classic": {
+        "player": "Roger Staubach",
+        "score": 93.8,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Troy Aikman",
+        "score": 92.2,
+        "bio": {
+          "round": 1,
+          "season": 1989,
+          "college": "UCLA"
+        }
+      },
+      "modern": {
+        "player": "Dak Prescott",
+        "score": 84.8,
+        "bio": {
+          "round": 4,
+          "season": 2016,
+          "college": "Mississippi St."
+        }
+      }
+    },
+    "WR": {
+      "all_time": {
+        "player": "Michael Irvin",
+        "score": 97.3,
+        "bio": {
+          "round": 1,
+          "season": 1988,
+          "college": "Miami (FL)"
+        }
+      },
+      "classic": {
+        "player": "Michael Irvin",
+        "score": 97.3,
+        "bio": {
+          "round": 1,
+          "season": 1988,
+          "college": "Miami (FL)"
+        }
+      },
+      "bridge": {
+        "player": "Michael Irvin",
+        "score": 97.3,
+        "bio": {
+          "round": 1,
+          "season": 1988,
+          "college": "Miami (FL)"
+        }
+      },
+      "modern": {
+        "player": "CeeDee Lamb",
+        "score": 89.4,
+        "bio": {
+          "round": 1,
+          "season": 2020,
+          "college": "Oklahoma"
+        }
+      }
+    },
+    "RB": {
+      "all_time": {
+        "player": "Emmitt Smith",
+        "score": 99,
+        "bio": {
+          "round": 1,
+          "season": 1990,
+          "college": "Florida"
+        }
+      },
+      "classic": {
+        "player": "Emmitt Smith",
+        "score": 99,
+        "bio": {
+          "round": 1,
+          "season": 1990,
+          "college": "Florida"
+        }
+      },
+      "bridge": {
+        "player": "Emmitt Smith",
+        "score": 99,
+        "bio": {
+          "round": 1,
+          "season": 1990,
+          "college": "Florida"
+        }
+      },
+      "modern": {
+        "player": "Ezekiel Elliott",
+        "score": 86.2,
+        "bio": {
+          "round": 1,
+          "season": 2016,
+          "college": "Ohio St."
+        }
+      }
+    },
+    "TE": {
+      "all_time": {
+        "player": "Jason Witten",
+        "score": 95,
+        "bio": {
+          "round": 3,
+          "season": 2003,
+          "college": "Tennessee"
+        }
+      },
+      "classic": {
+        "player": "Jay Novacek",
+        "score": 89.2,
+        "bio": {
+          "round": 6,
+          "season": 1985,
+          "college": "Wyoming"
+        }
+      },
+      "bridge": {
+        "player": "Jason Witten",
+        "score": 95,
+        "bio": {
+          "round": 3,
+          "season": 2003,
+          "college": "Tennessee"
+        }
+      },
+      "modern": {
+        "player": "Jason Witten",
+        "score": 95,
+        "bio": {
+          "round": 3,
+          "season": 2003,
+          "college": "Tennessee"
+        }
+      }
+    },
+    "FRONT7": {
+      "all_time": {
+        "player": "Bob Lilly",
+        "score": 98.3,
+        "bio": null
+      },
+      "classic": {
+        "player": "Bob Lilly",
+        "score": 98.3,
+        "bio": null
+      },
+      "bridge": {
+        "player": "DeMarcus Ware",
+        "score": 95.5,
+        "bio": {
+          "round": 1,
+          "season": 2005,
+          "college": "Troy"
+        }
+      },
+      "modern": {
+        "player": "DeMarcus Ware",
+        "score": 95.5,
+        "bio": {
+          "round": 1,
+          "season": 2005,
+          "college": "Troy"
+        }
+      }
+    },
+    "DB": {
+      "all_time": {
+        "player": "Deion Sanders",
+        "score": 100,
+        "bio": {
+          "round": 1,
+          "season": 1989,
+          "college": "Florida St."
+        }
+      },
+      "classic": {
+        "player": "Mel Renfro",
+        "score": 96,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Deion Sanders",
+        "score": 100,
+        "bio": {
+          "round": 1,
+          "season": 1989,
+          "college": "Florida St."
+        }
+      },
+      "modern": null
+    }
+  },
+  "IND": {
+    "QB": {
+      "all_time": {
+        "player": "Peyton Manning",
+        "score": 99.5,
+        "bio": {
+          "round": 1,
+          "season": 1998,
+          "college": "Tennessee"
+        }
+      },
+      "classic": {
+        "player": "Johnny Unitas",
+        "score": 97,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Peyton Manning",
+        "score": 99.5,
+        "bio": {
+          "round": 1,
+          "season": 1998,
+          "college": "Tennessee"
+        }
+      },
+      "modern": {
+        "player": "Peyton Manning",
+        "score": 99.5,
+        "bio": {
+          "round": 1,
+          "season": 1998,
+          "college": "Tennessee"
+        }
+      }
+    },
+    "WR": {
+      "all_time": {
+        "player": "Marvin Harrison",
+        "score": 99.3,
+        "bio": {
+          "round": 1,
+          "season": 1996,
+          "college": "Syracuse"
+        }
+      },
+      "classic": {
+        "player": "Raymond Berry",
+        "score": 95,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Marvin Harrison",
+        "score": 99.3,
+        "bio": {
+          "round": 1,
+          "season": 1996,
+          "college": "Syracuse"
+        }
+      },
+      "modern": {
+        "player": "Reggie Wayne",
+        "score": 96.4,
+        "bio": {
+          "round": 1,
+          "season": 2001,
+          "college": "Miami (FL)"
+        }
+      }
+    },
+    "RB": {
+      "all_time": {
+        "player": "Eric Dickerson",
+        "score": 96.8,
+        "bio": {
+          "round": 1,
+          "season": 1983,
+          "college": "SMU"
+        }
+      },
+      "classic": {
+        "player": "Eric Dickerson",
+        "score": 96.8,
+        "bio": {
+          "round": 1,
+          "season": 1983,
+          "college": "SMU"
+        }
+      },
+      "bridge": {
+        "player": "Edgerrin James",
+        "score": 95.6,
+        "bio": {
+          "round": 1,
+          "season": 1999,
+          "college": "Miami (FL)"
+        }
+      },
+      "modern": {
+        "player": "Jonathan Taylor",
+        "score": 88,
+        "bio": {
+          "round": 2,
+          "season": 2020,
+          "college": "Wisconsin"
+        }
+      }
+    },
+    "TE": {
+      "all_time": {
+        "player": "John Mackey",
+        "score": 95.6,
+        "bio": null
+      },
+      "classic": {
+        "player": "John Mackey",
+        "score": 95.6,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Dallas Clark",
+        "score": 89.6,
+        "bio": {
+          "round": 1,
+          "season": 2003,
+          "college": "Iowa"
+        }
+      },
+      "modern": {
+        "player": "Dallas Clark",
+        "score": 89.6,
+        "bio": {
+          "round": 1,
+          "season": 2003,
+          "college": "Iowa"
+        }
+      }
+    },
+    "FRONT7": {
+      "all_time": {
+        "player": "Gino Marchetti",
+        "score": 96,
+        "bio": null
+      },
+      "classic": {
+        "player": "Gino Marchetti",
+        "score": 96,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Dwight Freeney",
+        "score": 92.9,
+        "bio": {
+          "round": 1,
+          "season": 2002,
+          "college": "Syracuse"
+        }
+      },
+      "modern": {
+        "player": "Dwight Freeney",
+        "score": 92.9,
+        "bio": {
+          "round": 1,
+          "season": 2002,
+          "college": "Syracuse"
+        }
+      }
+    },
+    "DB": {
+      "all_time": {
+        "player": "Bobby Boyd",
+        "score": 91.3,
+        "bio": null
+      },
+      "classic": {
+        "player": "Bobby Boyd",
+        "score": 91.3,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Bob Sanders",
+        "score": 88.5,
+        "bio": {
+          "round": 2,
+          "season": 2004,
+          "college": "Iowa"
+        }
+      },
+      "modern": {
+        "player": "Bob Sanders",
+        "score": 88.5,
+        "bio": {
+          "round": 2,
+          "season": 2004,
+          "college": "Iowa"
+        }
+      }
+    }
+  },
+  "NE": {
+    "QB": {
+      "all_time": {
+        "player": "Tom Brady",
+        "score": 100,
+        "bio": {
+          "round": 6,
+          "season": 2000,
+          "college": "Michigan"
+        }
+      },
+      "classic": {
+        "player": "Steve Grogan",
+        "score": 81,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Tom Brady",
+        "score": 100,
+        "bio": {
+          "round": 6,
+          "season": 2000,
+          "college": "Michigan"
+        }
+      },
+      "modern": {
+        "player": "Tom Brady",
+        "score": 100,
+        "bio": {
+          "round": 6,
+          "season": 2000,
+          "college": "Michigan"
+        }
+      }
+    },
+    "WR": {
+      "all_time": {
+        "player": "Randy Moss",
+        "score": 97.2,
+        "bio": {
+          "round": 1,
+          "season": 1998,
+          "college": "Marshall"
+        }
+      },
+      "classic": {
+        "player": "Gino Cappelletti",
+        "score": 84.9,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Randy Moss",
+        "score": 97.2,
+        "bio": {
+          "round": 1,
+          "season": 1998,
+          "college": "Marshall"
+        }
+      },
+      "modern": {
+        "player": "Randy Moss",
+        "score": 97.2,
+        "bio": {
+          "round": 1,
+          "season": 1998,
+          "college": "Marshall"
+        }
+      }
+    },
+    "RB": {
+      "all_time": {
+        "player": "Curtis Martin",
+        "score": 91.9,
+        "bio": {
+          "round": 3,
+          "season": 1995,
+          "college": "Pittsburgh"
+        }
+      },
+      "classic": {
+        "player": "Sam Cunningham",
+        "score": 81.6,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Curtis Martin",
+        "score": 91.9,
+        "bio": {
+          "round": 3,
+          "season": 1995,
+          "college": "Pittsburgh"
+        }
+      },
+      "modern": {
+        "player": "Kevin Faulk",
+        "score": 74.3,
+        "bio": {
+          "round": 2,
+          "season": 1999,
+          "college": "LSU"
+        }
+      }
+    },
+    "TE": {
+      "all_time": {
+        "player": "Rob Gronkowski",
+        "score": 98.8,
+        "bio": {
+          "round": 2,
+          "season": 2010,
+          "college": "Arizona"
+        }
+      },
+      "classic": {
+        "player": "Ben Coates",
+        "score": 91.3,
+        "bio": {
+          "round": 5,
+          "season": 1991,
+          "college": "Livingstone"
+        }
+      },
+      "bridge": {
+        "player": "Ben Coates",
+        "score": 91.3,
+        "bio": {
+          "round": 5,
+          "season": 1991,
+          "college": "Livingstone"
+        }
+      },
+      "modern": {
+        "player": "Rob Gronkowski",
+        "score": 98.8,
+        "bio": {
+          "round": 2,
+          "season": 2010,
+          "college": "Arizona"
+        }
+      }
+    },
+    "FRONT7": {
+      "all_time": {
+        "player": "Nick Buoniconti",
+        "score": 91,
+        "bio": null
+      },
+      "classic": {
+        "player": "Nick Buoniconti",
+        "score": 91,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Richard Seymour",
+        "score": 86.4,
+        "bio": {
+          "round": 1,
+          "season": 2001,
+          "college": "Georgia"
+        }
+      },
+      "modern": {
+        "player": "Vince Wilfork",
+        "score": 85.3,
+        "bio": {
+          "round": 1,
+          "season": 2004,
+          "college": "Miami (FL)"
+        }
+      }
+    },
+    "DB": {
+      "all_time": {
+        "player": "Ty Law",
+        "score": 96.7,
+        "bio": {
+          "round": 1,
+          "season": 1995,
+          "college": "Michigan"
+        }
+      },
+      "classic": {
+        "player": "Mike Haynes",
+        "score": 95.9,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Ty Law",
+        "score": 96.7,
+        "bio": {
+          "round": 1,
+          "season": 1995,
+          "college": "Michigan"
+        }
+      },
+      "modern": {
+        "player": "Stephon Gilmore",
+        "score": 89,
+        "bio": {
+          "round": 1,
+          "season": 2012,
+          "college": "South Carolina"
+        }
+      }
+    }
+  },
+  "NYG": {
+    "QB": {
+      "all_time": {
+        "player": "Fran Tarkenton",
+        "score": 88,
+        "bio": null
+      },
+      "classic": {
+        "player": "Fran Tarkenton",
+        "score": 88,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Eli Manning",
+        "score": 86.9,
+        "bio": {
+          "round": 1,
+          "season": 2004,
+          "college": "Mississippi"
+        }
+      },
+      "modern": {
+        "player": "Eli Manning",
+        "score": 86.9,
+        "bio": {
+          "round": 1,
+          "season": 2004,
+          "college": "Mississippi"
+        }
+      }
+    },
+    "WR": {
+      "all_time": {
+        "player": "Del Shofner",
+        "score": 87,
+        "bio": null
+      },
+      "classic": {
+        "player": "Del Shofner",
+        "score": 87,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Hakeem Nicks",
+        "score": 77.4,
+        "bio": {
+          "round": 1,
+          "season": 2009,
+          "college": "North Carolina"
+        }
+      },
+      "modern": {
+        "player": "Odell Beckham Jr.",
+        "score": 81.7,
+        "bio": {
+          "round": 1,
+          "season": 2014,
+          "college": "LSU"
+        }
+      }
+    },
+    "RB": {
+      "all_time": {
+        "player": "Tiki Barber",
+        "score": 94.1,
+        "bio": {
+          "round": 2,
+          "season": 1997,
+          "college": "Virginia"
+        }
+      },
+      "classic": {
+        "player": "Frank Gifford",
+        "score": 88.5,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Tiki Barber",
+        "score": 94.1,
+        "bio": {
+          "round": 2,
+          "season": 1997,
+          "college": "Virginia"
+        }
+      },
+      "modern": {
+        "player": "Saquon Barkley",
+        "score": 89.7,
+        "bio": {
+          "round": 1,
+          "season": 2018,
+          "college": "Penn St."
+        }
+      }
+    },
+    "TE": {
+      "all_time": {
+        "player": "Jeremy Shockey",
+        "score": 90.9,
+        "bio": {
+          "round": 1,
+          "season": 2002,
+          "college": "Miami (FL)"
+        }
+      },
+      "classic": {
+        "player": "Mark Bavaro",
+        "score": 85.6,
+        "bio": {
+          "round": 4,
+          "season": 1985,
+          "college": "Notre Dame"
+        }
+      },
+      "bridge": {
+        "player": "Jeremy Shockey",
+        "score": 90.9,
+        "bio": {
+          "round": 1,
+          "season": 2002,
+          "college": "Miami (FL)"
+        }
+      },
+      "modern": {
+        "player": "Evan Engram",
+        "score": 75,
+        "bio": {
+          "round": 1,
+          "season": 2017,
+          "college": "Mississippi"
+        }
+      }
+    },
+    "FRONT7": {
+      "all_time": {
+        "player": "Lawrence Taylor",
+        "score": 100,
+        "bio": {
+          "round": 1,
+          "season": 1981,
+          "college": "North Carolina"
+        }
+      },
+      "classic": {
+        "player": "Lawrence Taylor",
+        "score": 100,
+        "bio": {
+          "round": 1,
+          "season": 1981,
+          "college": "North Carolina"
+        }
+      },
+      "bridge": {
+        "player": "Michael Strahan",
+        "score": 97.4,
+        "bio": {
+          "round": 2,
+          "season": 1993,
+          "college": "Texas Southern"
+        }
+      },
+      "modern": {
+        "player": "Dexter Lawrence",
+        "score": 83.8,
+        "bio": {
+          "round": 1,
+          "season": 2019,
+          "college": "Clemson"
+        }
+      }
+    },
+    "DB": {
+      "all_time": {
+        "player": "Emlen Tunnell",
+        "score": 96,
+        "bio": null
+      },
+      "classic": {
+        "player": "Emlen Tunnell",
+        "score": 96,
+        "bio": null
+      },
+      "bridge": null,
+      "modern": {
+        "player": "Dominique Rodgers-Cromartie",
+        "score": 81,
+        "bio": {
+          "round": 1,
+          "season": 2008,
+          "college": "Tennessee St."
+        }
+      }
+    }
+  },
+  "PIT": {
+    "QB": {
+      "all_time": {
+        "player": "Terry Bradshaw",
+        "score": 91,
+        "bio": null
+      },
+      "classic": {
+        "player": "Terry Bradshaw",
+        "score": 91,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Ben Roethlisberger",
+        "score": 90.6,
+        "bio": {
+          "round": 1,
+          "season": 2004,
+          "college": "Miami (OH)"
+        }
+      },
+      "modern": {
+        "player": "Ben Roethlisberger",
+        "score": 90.6,
+        "bio": {
+          "round": 1,
+          "season": 2004,
+          "college": "Miami (OH)"
+        }
+      }
+    },
+    "WR": {
+      "all_time": {
+        "player": "Antonio Brown",
+        "score": 97,
+        "bio": {
+          "round": 6,
+          "season": 2010,
+          "college": "Central Michigan"
+        }
+      },
+      "classic": {
+        "player": "John Stallworth",
+        "score": 91.6,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Hines Ward",
+        "score": 87.9,
+        "bio": {
+          "round": 3,
+          "season": 1998,
+          "college": "Georgia"
+        }
+      },
+      "modern": {
+        "player": "Antonio Brown",
+        "score": 97,
+        "bio": {
+          "round": 6,
+          "season": 2010,
+          "college": "Central Michigan"
+        }
+      }
+    },
+    "RB": {
+      "all_time": {
+        "player": "Franco Harris",
+        "score": 92.5,
+        "bio": null
+      },
+      "classic": {
+        "player": "Franco Harris",
+        "score": 92.5,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Jerome Bettis",
+        "score": 90.2,
+        "bio": {
+          "round": 1,
+          "season": 1993,
+          "college": "Notre Dame"
+        }
+      },
+      "modern": {
+        "player": "Le'Veon Bell",
+        "score": 89.8,
+        "bio": {
+          "round": 2,
+          "season": 2013,
+          "college": "Michigan St."
+        }
+      }
+    },
+    "TE": {
+      "all_time": {
+        "player": "Heath Miller",
+        "score": 86.6,
+        "bio": {
+          "round": 1,
+          "season": 2005,
+          "college": "Virginia"
+        }
+      },
+      "classic": {
+        "player": "Eric Green",
+        "score": 76.8,
+        "bio": {
+          "round": 1,
+          "season": 1990,
+          "college": "Liberty"
+        }
+      },
+      "bridge": {
+        "player": "Heath Miller",
+        "score": 86.6,
+        "bio": {
+          "round": 1,
+          "season": 2005,
+          "college": "Virginia"
+        }
+      },
+      "modern": {
+        "player": "Heath Miller",
+        "score": 86.6,
+        "bio": {
+          "round": 1,
+          "season": 2005,
+          "college": "Virginia"
+        }
+      }
+    },
+    "FRONT7": {
+      "all_time": {
+        "player": "Joe Greene",
+        "score": 99.1,
+        "bio": null
+      },
+      "classic": {
+        "player": "Joe Greene",
+        "score": 99.1,
+        "bio": null
+      },
+      "bridge": {
+        "player": "James Harrison",
+        "score": 90,
+        "bio": null
+      },
+      "modern": {
+        "player": "T.J. Watt",
+        "score": 96,
+        "bio": null
+      }
+    },
+    "DB": {
+      "all_time": {
+        "player": "Rod Woodson",
+        "score": 99.8,
+        "bio": {
+          "round": 1,
+          "season": 1987,
+          "college": "Purdue"
+        }
+      },
+      "classic": {
+        "player": "Rod Woodson",
+        "score": 99.8,
+        "bio": {
+          "round": 1,
+          "season": 1987,
+          "college": "Purdue"
+        }
+      },
+      "bridge": {
+        "player": "Rod Woodson",
+        "score": 99.8,
+        "bio": {
+          "round": 1,
+          "season": 1987,
+          "college": "Purdue"
+        }
+      },
+      "modern": {
+        "player": "Troy Polamalu",
+        "score": 97.8,
+        "bio": {
+          "round": 1,
+          "season": 2003,
+          "college": "USC"
+        }
+      }
+    }
+  },
+  "HOU": {
+    "QB": {
+      "all_time": {
+        "player": "Deshaun Watson",
+        "score": 77,
+        "bio": {
+          "round": 1,
+          "season": 2017,
+          "college": "Clemson"
+        }
+      },
+      "classic": null,
+      "bridge": {
+        "player": "Matt Schaub",
+        "score": 76,
+        "bio": {
+          "round": 3,
+          "season": 2004,
+          "college": "Virginia"
+        }
+      },
+      "modern": {
+        "player": "Deshaun Watson",
+        "score": 77,
+        "bio": {
+          "round": 1,
+          "season": 2017,
+          "college": "Clemson"
+        }
+      }
+    },
+    "WR": {
+      "all_time": {
+        "player": "Andre Johnson",
+        "score": 94.9,
+        "bio": {
+          "round": 1,
+          "season": 2003,
+          "college": "Miami (FL)"
+        }
+      },
+      "classic": null,
+      "bridge": {
+        "player": "Andre Johnson",
+        "score": 94.9,
+        "bio": {
+          "round": 1,
+          "season": 2003,
+          "college": "Miami (FL)"
+        }
+      },
+      "modern": {
+        "player": "Andre Johnson",
+        "score": 94.9,
+        "bio": {
+          "round": 1,
+          "season": 2003,
+          "college": "Miami (FL)"
+        }
+      }
+    },
+    "RB": {
+      "all_time": {
+        "player": "Arian Foster",
+        "score": 87.2,
+        "bio": null
+      },
+      "classic": null,
+      "bridge": {
+        "player": "Arian Foster",
+        "score": 87.2,
+        "bio": null
+      },
+      "modern": {
+        "player": "Arian Foster",
+        "score": 87.2,
+        "bio": null
+      }
+    },
+    "TE": {
+      "all_time": {
+        "player": "Owen Daniels",
+        "score": 79.9,
+        "bio": {
+          "round": 4,
+          "season": 2006,
+          "college": "Wisconsin"
+        }
+      },
+      "classic": null,
+      "bridge": {
+        "player": "Owen Daniels",
+        "score": 79.9,
+        "bio": {
+          "round": 4,
+          "season": 2006,
+          "college": "Wisconsin"
+        }
+      },
+      "modern": {
+        "player": "Owen Daniels",
+        "score": 79.9,
+        "bio": {
+          "round": 4,
+          "season": 2006,
+          "college": "Wisconsin"
+        }
+      }
+    },
+    "FRONT7": {
+      "all_time": {
+        "player": "J.J. Watt",
+        "score": 99.2,
+        "bio": null
+      },
+      "classic": null,
+      "bridge": {
+        "player": "DeMeco Ryans",
+        "score": 78.7,
+        "bio": {
+          "round": 2,
+          "season": 2006,
+          "college": "Alabama"
+        }
+      },
+      "modern": {
+        "player": "J.J. Watt",
+        "score": 99.2,
+        "bio": null
+      }
+    },
+    "DB": {
+      "all_time": {
+        "player": "Johnathan Joseph",
+        "score": 81.8,
+        "bio": {
+          "round": 1,
+          "season": 2006,
+          "college": "South Carolina"
+        }
+      },
+      "classic": null,
+      "bridge": {
+        "player": "Aaron Glenn",
+        "score": 76.5,
+        "bio": {
+          "round": 1,
+          "season": 1994,
+          "college": "Texas A&M"
+        }
+      },
+      "modern": {
+        "player": "Johnathan Joseph",
+        "score": 81.8,
+        "bio": {
+          "round": 1,
+          "season": 2006,
+          "college": "South Carolina"
+        }
+      }
+    }
+  },
+  "TEN": {
+    "QB": {
+      "all_time": {
+        "player": "Warren Moon",
+        "score": 92.6,
+        "bio": null
+      },
+      "classic": {
+        "player": "Warren Moon",
+        "score": 92.6,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Steve McNair",
+        "score": 84,
+        "bio": {
+          "round": 1,
+          "season": 1995,
+          "college": "Alcorn St."
+        }
+      },
+      "modern": {
+        "player": "Ryan Tannehill",
+        "score": 74.4,
+        "bio": {
+          "round": 1,
+          "season": 2012,
+          "college": "Texas A&M"
+        }
+      }
+    },
+    "WR": {
+      "all_time": {
+        "player": "A.J. Brown",
+        "score": 87.2,
+        "bio": {
+          "round": 2,
+          "season": 2019,
+          "college": "Mississippi"
+        }
+      },
+      "classic": {
+        "player": "Charley Hennigan",
+        "score": 86,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Derrick Mason",
+        "score": 78.9,
+        "bio": {
+          "round": 4,
+          "season": 1997,
+          "college": "Michigan St."
+        }
+      },
+      "modern": {
+        "player": "A.J. Brown",
+        "score": 87.2,
+        "bio": {
+          "round": 2,
+          "season": 2019,
+          "college": "Mississippi"
+        }
+      }
+    },
+    "RB": {
+      "all_time": {
+        "player": "Earl Campbell",
+        "score": 96.8,
+        "bio": null
+      },
+      "classic": {
+        "player": "Earl Campbell",
+        "score": 96.8,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Eddie George",
+        "score": 90.3,
+        "bio": {
+          "round": 1,
+          "season": 1996,
+          "college": "Ohio St."
+        }
+      },
+      "modern": {
+        "player": "Derrick Henry",
+        "score": 95.5,
+        "bio": {
+          "round": 2,
+          "season": 2016,
+          "college": "Alabama"
+        }
+      }
+    },
+    "TE": {
+      "all_time": {
+        "player": "Delanie Walker",
+        "score": 84.7,
+        "bio": {
+          "round": 6,
+          "season": 2006,
+          "college": "Central Missouri St."
+        }
+      },
+      "classic": {
+        "player": "Dave Casper",
+        "score": 82.1,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Frank Wycheck",
+        "score": 84.1,
+        "bio": {
+          "round": 6,
+          "season": 1993,
+          "college": "Maryland"
+        }
+      },
+      "modern": {
+        "player": "Delanie Walker",
+        "score": 84.7,
+        "bio": {
+          "round": 6,
+          "season": 2006,
+          "college": "Central Missouri St."
+        }
+      }
+    },
+    "FRONT7": {
+      "all_time": {
+        "player": "Ray Childress",
+        "score": 88.4,
+        "bio": {
+          "round": 1,
+          "season": 1985,
+          "college": "Texas A&M"
+        }
+      },
+      "classic": {
+        "player": "Ray Childress",
+        "score": 88.4,
+        "bio": {
+          "round": 1,
+          "season": 1985,
+          "college": "Texas A&M"
+        }
+      },
+      "bridge": {
+        "player": "Ray Childress",
+        "score": 88.4,
+        "bio": {
+          "round": 1,
+          "season": 1985,
+          "college": "Texas A&M"
+        }
+      },
+      "modern": {
+        "player": "Jurrell Casey",
+        "score": 84.5,
+        "bio": {
+          "round": 3,
+          "season": 2011,
+          "college": "USC"
+        }
+      }
+    },
+    "DB": {
+      "all_time": {
+        "player": "Ken Houston",
+        "score": 88.7,
+        "bio": null
+      },
+      "classic": {
+        "player": "Ken Houston",
+        "score": 88.7,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Cris Dishman",
+        "score": 82.5,
+        "bio": {
+          "round": 5,
+          "season": 1988,
+          "college": "Purdue"
+        }
+      },
+      "modern": {
+        "player": "Kevin Byard",
+        "score": 85.8,
+        "bio": {
+          "round": 3,
+          "season": 2016,
+          "college": "Middle Tenn. St."
+        }
+      }
+    }
+  },
+  "JAX": {
+    "QB": {
+      "all_time": {
+        "player": "Mark Brunell",
+        "score": 83.5,
+        "bio": {
+          "round": 5,
+          "season": 1993,
+          "college": "Washington"
+        }
+      },
+      "classic": null,
+      "bridge": {
+        "player": "Mark Brunell",
+        "score": 83.5,
+        "bio": {
+          "round": 5,
+          "season": 1993,
+          "college": "Washington"
+        }
+      },
+      "modern": {
+        "player": "David Garrard",
+        "score": 75.2,
+        "bio": {
+          "round": 4,
+          "season": 2002,
+          "college": "East Carolina"
+        }
+      }
+    },
+    "WR": {
+      "all_time": {
+        "player": "Jimmy Smith",
+        "score": 88.5,
+        "bio": {
+          "round": 2,
+          "season": 1992,
+          "college": "Jackson St."
+        }
+      },
+      "classic": null,
+      "bridge": {
+        "player": "Jimmy Smith",
+        "score": 88.5,
+        "bio": {
+          "round": 2,
+          "season": 1992,
+          "college": "Jackson St."
+        }
+      },
+      "modern": {
+        "player": "Christian Kirk",
+        "score": 72.9,
+        "bio": {
+          "round": 2,
+          "season": 2018,
+          "college": "Texas A&M"
+        }
+      }
+    },
+    "RB": {
+      "all_time": {
+        "player": "Fred Taylor",
+        "score": 91,
+        "bio": {
+          "round": 1,
+          "season": 1998,
+          "college": "Florida"
+        }
+      },
+      "classic": null,
+      "bridge": {
+        "player": "Fred Taylor",
+        "score": 91,
+        "bio": {
+          "round": 1,
+          "season": 1998,
+          "college": "Florida"
+        }
+      },
+      "modern": {
+        "player": "Maurice Jones-Drew",
+        "score": 87.4,
+        "bio": {
+          "round": 2,
+          "season": 2006,
+          "college": "UCLA"
+        }
+      }
+    },
+    "TE": {
+      "all_time": {
+        "player": "Marcedes Lewis",
+        "score": 80.7,
+        "bio": {
+          "round": 1,
+          "season": 2006,
+          "college": "UCLA"
+        }
+      },
+      "classic": null,
+      "bridge": {
+        "player": "Marcedes Lewis",
+        "score": 80.7,
+        "bio": {
+          "round": 1,
+          "season": 2006,
+          "college": "UCLA"
+        }
+      },
+      "modern": {
+        "player": "Marcedes Lewis",
+        "score": 80.7,
+        "bio": {
+          "round": 1,
+          "season": 2006,
+          "college": "UCLA"
+        }
+      }
+    },
+    "FRONT7": {
+      "all_time": {
+        "player": "Calais Campbell",
+        "score": 86.7,
+        "bio": {
+          "round": 2,
+          "season": 2008,
+          "college": "Miami (FL)"
+        }
+      },
+      "classic": null,
+      "bridge": {
+        "player": "John Henderson",
+        "score": 76.2,
+        "bio": {
+          "round": 1,
+          "season": 2002,
+          "college": "Tennessee"
+        }
+      },
+      "modern": {
+        "player": "Calais Campbell",
+        "score": 86.7,
+        "bio": {
+          "round": 2,
+          "season": 2008,
+          "college": "Miami (FL)"
+        }
+      }
+    },
+    "DB": {
+      "all_time": {
+        "player": "Jalen Ramsey",
+        "score": 91.3,
+        "bio": {
+          "round": 1,
+          "season": 2016,
+          "college": "Florida St."
+        }
+      },
+      "classic": null,
+      "bridge": {
+        "player": "Rashean Mathis",
+        "score": 79.6,
+        "bio": {
+          "round": 2,
+          "season": 2003,
+          "college": "Bethune-Cookman"
+        }
+      },
+      "modern": {
+        "player": "Jalen Ramsey",
+        "score": 91.3,
+        "bio": {
+          "round": 1,
+          "season": 2016,
+          "college": "Florida St."
+        }
+      }
+    }
+  },
+  "BAL": {
+    "QB": {
+      "all_time": {
+        "player": "Lamar Jackson",
+        "score": 94.2,
+        "bio": {
+          "round": 1,
+          "season": 2018,
+          "college": "Louisville"
+        }
+      },
+      "classic": null,
+      "bridge": {
+        "player": "Joe Flacco",
+        "score": 77,
+        "bio": {
+          "round": 1,
+          "season": 2008,
+          "college": "Delaware"
+        }
+      },
+      "modern": {
+        "player": "Lamar Jackson",
+        "score": 94.2,
+        "bio": {
+          "round": 1,
+          "season": 2018,
+          "college": "Louisville"
+        }
+      }
+    },
+    "WR": {
+      "all_time": {
+        "player": "Steve Smith Sr.",
+        "score": 82.9,
+        "bio": {
+          "round": 3,
+          "season": 2001,
+          "college": "Utah"
+        }
+      },
+      "classic": null,
+      "bridge": {
+        "player": "Derrick Mason",
+        "score": 74.1,
+        "bio": {
+          "round": 4,
+          "season": 1997,
+          "college": "Michigan St."
+        }
+      },
+      "modern": {
+        "player": "Steve Smith Sr.",
+        "score": 82.9,
+        "bio": {
+          "round": 3,
+          "season": 2001,
+          "college": "Utah"
+        }
+      }
+    },
+    "RB": {
+      "all_time": {
+        "player": "Derrick Henry",
+        "score": 91,
+        "bio": {
+          "round": 2,
+          "season": 2016,
+          "college": "Alabama"
+        }
+      },
+      "classic": null,
+      "bridge": {
+        "player": "Jamal Lewis",
+        "score": 89.8,
+        "bio": {
+          "round": 1,
+          "season": 2000,
+          "college": "Tennessee"
+        }
+      },
+      "modern": {
+        "player": "Derrick Henry",
+        "score": 91,
+        "bio": {
+          "round": 2,
+          "season": 2016,
+          "college": "Alabama"
+        }
+      }
+    },
+    "TE": {
+      "all_time": {
+        "player": "Mark Andrews",
+        "score": 91.5,
+        "bio": {
+          "round": 3,
+          "season": 2018,
+          "college": "Oklahoma"
+        }
+      },
+      "classic": null,
+      "bridge": {
+        "player": "Shannon Sharpe",
+        "score": 84.6,
+        "bio": {
+          "round": 7,
+          "season": 1990,
+          "college": "Savannah St."
+        }
+      },
+      "modern": {
+        "player": "Mark Andrews",
+        "score": 91.5,
+        "bio": {
+          "round": 3,
+          "season": 2018,
+          "college": "Oklahoma"
+        }
+      }
+    },
+    "FRONT7": {
+      "all_time": {
+        "player": "Ray Lewis",
+        "score": 98.5,
+        "bio": {
+          "round": 1,
+          "season": 1996,
+          "college": "Miami (FL)"
+        }
+      },
+      "classic": null,
+      "bridge": {
+        "player": "Ray Lewis",
+        "score": 98.5,
+        "bio": {
+          "round": 1,
+          "season": 1996,
+          "college": "Miami (FL)"
+        }
+      },
+      "modern": {
+        "player": "Ray Lewis",
+        "score": 98.5,
+        "bio": {
+          "round": 1,
+          "season": 1996,
+          "college": "Miami (FL)"
+        }
+      }
+    },
+    "DB": {
+      "all_time": {
+        "player": "Ed Reed",
+        "score": 99.3,
+        "bio": {
+          "round": 1,
+          "season": 2002,
+          "college": "Miami (FL)"
+        }
+      },
+      "classic": null,
+      "bridge": {
+        "player": "Ed Reed",
+        "score": 99.3,
+        "bio": {
+          "round": 1,
+          "season": 2002,
+          "college": "Miami (FL)"
+        }
+      },
+      "modern": {
+        "player": "Ed Reed",
+        "score": 99.3,
+        "bio": {
+          "round": 1,
+          "season": 2002,
+          "college": "Miami (FL)"
+        }
+      }
+    }
+  },
+  "NYJ": {
+    "QB": {
+      "all_time": {
+        "player": "Joe Namath",
+        "score": 87.5,
+        "bio": null
+      },
+      "classic": {
+        "player": "Joe Namath",
+        "score": 87.5,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Boomer Esiason",
+        "score": 76.9,
+        "bio": {
+          "round": 2,
+          "season": 1984,
+          "college": "Maryland"
+        }
+      },
+      "modern": {
+        "player": "Aaron Rodgers",
+        "score": 79.6,
+        "bio": {
+          "round": 1,
+          "season": 2005,
+          "college": "California"
+        }
+      }
+    },
+    "WR": {
+      "all_time": {
+        "player": "Don Maynard",
+        "score": 94.1,
+        "bio": null
+      },
+      "classic": {
+        "player": "Don Maynard",
+        "score": 94.1,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Laveranues Coles",
+        "score": 77.1,
+        "bio": {
+          "round": 3,
+          "season": 2000,
+          "college": "Florida St."
+        }
+      },
+      "modern": {
+        "player": "Brandon Marshall",
+        "score": 78,
+        "bio": {
+          "round": 4,
+          "season": 2006,
+          "college": "Central Florida"
+        }
+      }
+    },
+    "RB": {
+      "all_time": {
+        "player": "Curtis Martin",
+        "score": 93,
+        "bio": {
+          "round": 3,
+          "season": 1995,
+          "college": "Pittsburgh"
+        }
+      },
+      "classic": {
+        "player": "Freeman McNeil",
+        "score": 85.8,
+        "bio": {
+          "round": 1,
+          "season": 1981,
+          "college": "UCLA"
+        }
+      },
+      "bridge": {
+        "player": "Curtis Martin",
+        "score": 93,
+        "bio": {
+          "round": 3,
+          "season": 1995,
+          "college": "Pittsburgh"
+        }
+      },
+      "modern": {
+        "player": "Breece Hall",
+        "score": 75.5,
+        "bio": {
+          "round": 2,
+          "season": 2022,
+          "college": "Iowa St."
+        }
+      }
+    },
+    "TE": {
+      "all_time": {
+        "player": "Rich Caster",
+        "score": 85.3,
+        "bio": null
+      },
+      "classic": {
+        "player": "Rich Caster",
+        "score": 85.3,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Dustin Keller",
+        "score": 73.5,
+        "bio": {
+          "round": 1,
+          "season": 2008,
+          "college": "Purdue"
+        }
+      },
+      "modern": {
+        "player": "Dustin Keller",
+        "score": 73.5,
+        "bio": {
+          "round": 1,
+          "season": 2008,
+          "college": "Purdue"
+        }
+      }
+    },
+    "FRONT7": {
+      "all_time": {
+        "player": "Mark Gastineau",
+        "score": 89.8,
+        "bio": null
+      },
+      "classic": {
+        "player": "Mark Gastineau",
+        "score": 89.8,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Mo Lewis",
+        "score": 83.1,
+        "bio": {
+          "round": 3,
+          "season": 1991,
+          "college": "Georgia"
+        }
+      },
+      "modern": {
+        "player": "Quinnen Williams",
+        "score": 82.4,
+        "bio": {
+          "round": 1,
+          "season": 2019,
+          "college": "Alabama"
+        }
+      }
+    },
+    "DB": {
+      "all_time": {
+        "player": "Darrelle Revis",
+        "score": 98.1,
+        "bio": {
+          "round": 1,
+          "season": 2007,
+          "college": "Pittsburgh"
+        }
+      },
+      "classic": {
+        "player": "Aaron Glenn",
+        "score": 78.1,
+        "bio": {
+          "round": 1,
+          "season": 1994,
+          "college": "Texas A&M"
+        }
+      },
+      "bridge": {
+        "player": "Darrelle Revis",
+        "score": 98.1,
+        "bio": {
+          "round": 1,
+          "season": 2007,
+          "college": "Pittsburgh"
+        }
+      },
+      "modern": {
+        "player": "Darrelle Revis",
+        "score": 98.1,
+        "bio": {
+          "round": 1,
+          "season": 2007,
+          "college": "Pittsburgh"
+        }
+      }
+    }
+  },
+  "GB": {
+    "QB": {
+      "all_time": {
+        "player": "Aaron Rodgers",
+        "score": 98,
+        "bio": {
+          "round": 1,
+          "season": 2005,
+          "college": "California"
+        }
+      },
+      "classic": {
+        "player": "Brett Favre",
+        "score": 96,
+        "bio": {
+          "round": 2,
+          "season": 1991,
+          "college": "Southern Miss"
+        }
+      },
+      "bridge": {
+        "player": "Aaron Rodgers",
+        "score": 98,
+        "bio": {
+          "round": 1,
+          "season": 2005,
+          "college": "California"
+        }
+      },
+      "modern": {
+        "player": "Aaron Rodgers",
+        "score": 98,
+        "bio": {
+          "round": 1,
+          "season": 2005,
+          "college": "California"
+        }
+      }
+    },
+    "WR": {
+      "all_time": {
+        "player": "Don Hutson",
+        "score": 99,
+        "bio": null
+      },
+      "classic": {
+        "player": "Don Hutson",
+        "score": 99,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Jordy Nelson",
+        "score": 83.4,
+        "bio": {
+          "round": 2,
+          "season": 2008,
+          "college": "Kansas St."
+        }
+      },
+      "modern": {
+        "player": "Davante Adams",
+        "score": 92.4,
+        "bio": {
+          "round": 2,
+          "season": 2014,
+          "college": "Fresno St."
+        }
+      }
+    },
+    "RB": {
+      "all_time": {
+        "player": "Jim Taylor",
+        "score": 93.6,
+        "bio": null
+      },
+      "classic": {
+        "player": "Jim Taylor",
+        "score": 93.6,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Ahman Green",
+        "score": 90.5,
+        "bio": {
+          "round": 3,
+          "season": 1998,
+          "college": "Nebraska"
+        }
+      },
+      "modern": {
+        "player": "Aaron Jones",
+        "score": 84.6,
+        "bio": {
+          "round": 5,
+          "season": 2017,
+          "college": "Texas-El Paso"
+        }
+      }
+    },
+    "TE": {
+      "all_time": {
+        "player": "Keith Jackson",
+        "score": 83.4,
+        "bio": {
+          "round": 1,
+          "season": 1988,
+          "college": "Oklahoma"
+        }
+      },
+      "classic": {
+        "player": "Ron Kramer",
+        "score": 81.9,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Keith Jackson",
+        "score": 83.4,
+        "bio": {
+          "round": 1,
+          "season": 1988,
+          "college": "Oklahoma"
+        }
+      },
+      "modern": {
+        "player": "Jermichael Finley",
+        "score": 75.3,
+        "bio": {
+          "round": 3,
+          "season": 2008,
+          "college": "Texas"
+        }
+      }
+    },
+    "FRONT7": {
+      "all_time": {
+        "player": "Reggie White",
+        "score": 97.7,
+        "bio": null
+      },
+      "classic": {
+        "player": "Reggie White",
+        "score": 97.7,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Reggie White",
+        "score": 97.7,
+        "bio": null
+      },
+      "modern": {
+        "player": "Julius Peppers",
+        "score": 85.1,
+        "bio": {
+          "round": 1,
+          "season": 2002,
+          "college": "North Carolina"
+        }
+      }
+    },
+    "DB": {
+      "all_time": {
+        "player": "Charles Woodson",
+        "score": 98.4,
+        "bio": {
+          "round": 1,
+          "season": 1998,
+          "college": "Michigan"
+        }
+      },
+      "classic": {
+        "player": "Herb Adderley",
+        "score": 97.2,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Charles Woodson",
+        "score": 98.4,
+        "bio": {
+          "round": 1,
+          "season": 1998,
+          "college": "Michigan"
+        }
+      },
+      "modern": {
+        "player": "Charles Woodson",
+        "score": 98.4,
+        "bio": {
+          "round": 1,
+          "season": 1998,
+          "college": "Michigan"
+        }
+      }
+    }
+  },
+  "CHI": {
+    "QB": {
+      "all_time": {
+        "player": "Sid Luckman",
+        "score": 94,
+        "bio": null
+      },
+      "classic": {
+        "player": "Sid Luckman",
+        "score": 94,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Jay Cutler",
+        "score": 72.7,
+        "bio": {
+          "round": 1,
+          "season": 2006,
+          "college": "Vanderbilt"
+        }
+      },
+      "modern": {
+        "player": "Caleb Williams",
+        "score": 75,
+        "bio": {
+          "round": 1,
+          "season": 2024,
+          "college": "USC"
+        }
+      }
+    },
+    "WR": {
+      "all_time": {
+        "player": "Brandon Marshall",
+        "score": 87.5,
+        "bio": {
+          "round": 4,
+          "season": 2006,
+          "college": "Central Florida"
+        }
+      },
+      "classic": {
+        "player": "Bill Hewitt",
+        "score": 80.4,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Muhsin Muhammad",
+        "score": 73.8,
+        "bio": {
+          "round": 2,
+          "season": 1996,
+          "college": "Michigan St."
+        }
+      },
+      "modern": {
+        "player": "Brandon Marshall",
+        "score": 87.5,
+        "bio": {
+          "round": 4,
+          "season": 2006,
+          "college": "Central Florida"
+        }
+      }
+    },
+    "RB": {
+      "all_time": {
+        "player": "Walter Payton",
+        "score": 99.3,
+        "bio": null
+      },
+      "classic": {
+        "player": "Walter Payton",
+        "score": 99.3,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Matt Forte",
+        "score": 86.5,
+        "bio": {
+          "round": 2,
+          "season": 2008,
+          "college": "Tulane"
+        }
+      },
+      "modern": {
+        "player": "Matt Forte",
+        "score": 86.5,
+        "bio": {
+          "round": 2,
+          "season": 2008,
+          "college": "Tulane"
+        }
+      }
+    },
+    "TE": {
+      "all_time": {
+        "player": "Mike Ditka",
+        "score": 96.1,
+        "bio": null
+      },
+      "classic": {
+        "player": "Mike Ditka",
+        "score": 96.1,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Greg Olsen",
+        "score": 79.9,
+        "bio": {
+          "round": 1,
+          "season": 2007,
+          "college": "Miami (FL)"
+        }
+      },
+      "modern": {
+        "player": "Greg Olsen",
+        "score": 79.9,
+        "bio": {
+          "round": 1,
+          "season": 2007,
+          "college": "Miami (FL)"
+        }
+      }
+    },
+    "FRONT7": {
+      "all_time": {
+        "player": "Dick Butkus",
+        "score": 98.7,
+        "bio": null
+      },
+      "classic": {
+        "player": "Dick Butkus",
+        "score": 98.7,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Brian Urlacher",
+        "score": 96.2,
+        "bio": {
+          "round": 1,
+          "season": 2000,
+          "college": "New Mexico"
+        }
+      },
+      "modern": {
+        "player": "Brian Urlacher",
+        "score": 96.2,
+        "bio": {
+          "round": 1,
+          "season": 2000,
+          "college": "New Mexico"
+        }
+      }
+    },
+    "DB": {
+      "all_time": {
+        "player": "Richie Petitbon",
+        "score": 86.7,
+        "bio": null
+      },
+      "classic": {
+        "player": "Richie Petitbon",
+        "score": 86.7,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Charles Tillman",
+        "score": 82,
+        "bio": {
+          "round": 2,
+          "season": 2003,
+          "college": "Louisiana"
+        }
+      },
+      "modern": {
+        "player": "Charles Tillman",
+        "score": 82,
+        "bio": {
+          "round": 2,
+          "season": 2003,
+          "college": "Louisiana"
+        }
+      }
+    }
+  },
+  "NO": {
+    "QB": {
+      "all_time": {
+        "player": "Drew Brees",
+        "score": 95.6,
+        "bio": {
+          "round": 2,
+          "season": 2001,
+          "college": "Purdue"
+        }
+      },
+      "classic": {
+        "player": "Archie Manning",
+        "score": 76.7,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Drew Brees",
+        "score": 95.6,
+        "bio": {
+          "round": 2,
+          "season": 2001,
+          "college": "Purdue"
+        }
+      },
+      "modern": {
+        "player": "Drew Brees",
+        "score": 95.6,
+        "bio": {
+          "round": 2,
+          "season": 2001,
+          "college": "Purdue"
+        }
+      }
+    },
+    "WR": {
+      "all_time": {
+        "player": "Michael Thomas",
+        "score": 88.5,
+        "bio": {
+          "round": 2,
+          "season": 2016,
+          "college": "Ohio St."
+        }
+      },
+      "classic": {
+        "player": "Eric Martin",
+        "score": 80,
+        "bio": {
+          "round": 7,
+          "season": 1985,
+          "college": "LSU"
+        }
+      },
+      "bridge": {
+        "player": "Marques Colston",
+        "score": 82.1,
+        "bio": {
+          "round": 7,
+          "season": 2006,
+          "college": "Hofstra"
+        }
+      },
+      "modern": {
+        "player": "Michael Thomas",
+        "score": 88.5,
+        "bio": {
+          "round": 2,
+          "season": 2016,
+          "college": "Ohio St."
+        }
+      }
+    },
+    "RB": {
+      "all_time": {
+        "player": "Alvin Kamara",
+        "score": 88,
+        "bio": {
+          "round": 3,
+          "season": 2017,
+          "college": "Tennessee"
+        }
+      },
+      "classic": {
+        "player": "Dalton Hilliard",
+        "score": 74.7,
+        "bio": {
+          "round": 2,
+          "season": 1986,
+          "college": "LSU"
+        }
+      },
+      "bridge": {
+        "player": "Ricky Williams",
+        "score": 79,
+        "bio": {
+          "round": 1,
+          "season": 1999,
+          "college": "Texas"
+        }
+      },
+      "modern": {
+        "player": "Alvin Kamara",
+        "score": 88,
+        "bio": {
+          "round": 3,
+          "season": 2017,
+          "college": "Tennessee"
+        }
+      }
+    },
+    "TE": {
+      "all_time": {
+        "player": "Jimmy Graham",
+        "score": 92.6,
+        "bio": {
+          "round": 3,
+          "season": 2010,
+          "college": "Miami (FL)"
+        }
+      },
+      "classic": {
+        "player": "Henry Childs",
+        "score": 78.4,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Jeremy Shockey",
+        "score": 84.9,
+        "bio": {
+          "round": 1,
+          "season": 2002,
+          "college": "Miami (FL)"
+        }
+      },
+      "modern": {
+        "player": "Jimmy Graham",
+        "score": 92.6,
+        "bio": {
+          "round": 3,
+          "season": 2010,
+          "college": "Miami (FL)"
+        }
+      }
+    },
+    "FRONT7": {
+      "all_time": {
+        "player": "Rickey Jackson",
+        "score": 91.4,
+        "bio": {
+          "round": 2,
+          "season": 1981,
+          "college": "Pittsburgh"
+        }
+      },
+      "classic": {
+        "player": "Rickey Jackson",
+        "score": 91.4,
+        "bio": {
+          "round": 2,
+          "season": 1981,
+          "college": "Pittsburgh"
+        }
+      },
+      "bridge": {
+        "player": "La'Roi Glover",
+        "score": 77.2,
+        "bio": {
+          "round": 5,
+          "season": 1996,
+          "college": "San Diego St."
+        }
+      },
+      "modern": {
+        "player": "Cameron Jordan",
+        "score": 88.8,
+        "bio": {
+          "round": 1,
+          "season": 2011,
+          "college": "California"
+        }
+      }
+    },
+    "DB": {
+      "all_time": {
+        "player": "Darren Sharper",
+        "score": 84,
+        "bio": {
+          "round": 2,
+          "season": 1997,
+          "college": "William & Mary"
+        }
+      },
+      "classic": {
+        "player": "Dave Waymer",
+        "score": 79.2,
+        "bio": {
+          "round": 2,
+          "season": 1980,
+          "college": "Notre Dame"
+        }
+      },
+      "bridge": {
+        "player": "Darren Sharper",
+        "score": 84,
+        "bio": {
+          "round": 2,
+          "season": 1997,
+          "college": "William & Mary"
+        }
+      },
+      "modern": {
+        "player": "Darren Sharper",
+        "score": 84,
+        "bio": {
+          "round": 2,
+          "season": 1997,
+          "college": "William & Mary"
+        }
+      }
+    }
+  },
+  "MIN": {
+    "QB": {
+      "all_time": {
+        "player": "Fran Tarkenton",
+        "score": 92,
+        "bio": null
+      },
+      "classic": {
+        "player": "Fran Tarkenton",
+        "score": 92,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Warren Moon",
+        "score": 90.8,
+        "bio": null
+      },
+      "modern": {
+        "player": "Brett Favre",
+        "score": 80.7,
+        "bio": {
+          "round": 2,
+          "season": 1991,
+          "college": "Southern Miss"
+        }
+      }
+    },
+    "WR": {
+      "all_time": {
+        "player": "Randy Moss",
+        "score": 99.7,
+        "bio": {
+          "round": 1,
+          "season": 1998,
+          "college": "Marshall"
+        }
+      },
+      "classic": {
+        "player": "Cris Carter",
+        "score": 96.1,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Randy Moss",
+        "score": 99.7,
+        "bio": {
+          "round": 1,
+          "season": 1998,
+          "college": "Marshall"
+        }
+      },
+      "modern": {
+        "player": "Randy Moss",
+        "score": 99.7,
+        "bio": {
+          "round": 1,
+          "season": 1998,
+          "college": "Marshall"
+        }
+      }
+    },
+    "RB": {
+      "all_time": {
+        "player": "Adrian Peterson",
+        "score": 98,
+        "bio": {
+          "round": 1,
+          "season": 2007,
+          "college": "Oklahoma"
+        }
+      },
+      "classic": {
+        "player": "Chuck Foreman",
+        "score": 92.3,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Adrian Peterson",
+        "score": 98,
+        "bio": {
+          "round": 1,
+          "season": 2007,
+          "college": "Oklahoma"
+        }
+      },
+      "modern": {
+        "player": "Adrian Peterson",
+        "score": 98,
+        "bio": {
+          "round": 1,
+          "season": 2007,
+          "college": "Oklahoma"
+        }
+      }
+    },
+    "TE": {
+      "all_time": {
+        "player": "Steve Jordan",
+        "score": 85.9,
+        "bio": {
+          "round": 7,
+          "season": 1982,
+          "college": "Brown"
+        }
+      },
+      "classic": {
+        "player": "Steve Jordan",
+        "score": 85.9,
+        "bio": {
+          "round": 7,
+          "season": 1982,
+          "college": "Brown"
+        }
+      },
+      "bridge": {
+        "player": "Visanthe Shiancoe",
+        "score": 72.1,
+        "bio": {
+          "round": 3,
+          "season": 2003,
+          "college": "Morgan St."
+        }
+      },
+      "modern": {
+        "player": "T.J. Hockenson",
+        "score": 82.3,
+        "bio": {
+          "round": 1,
+          "season": 2019,
+          "college": "Iowa"
+        }
+      }
+    },
+    "FRONT7": {
+      "all_time": {
+        "player": "Alan Page",
+        "score": 98.1,
+        "bio": null
+      },
+      "classic": {
+        "player": "Alan Page",
+        "score": 98.1,
+        "bio": null
+      },
+      "bridge": {
+        "player": "John Randle",
+        "score": 94.7,
+        "bio": null
+      },
+      "modern": {
+        "player": "Jared Allen",
+        "score": 93,
+        "bio": {
+          "round": 4,
+          "season": 2004,
+          "college": "Idaho St."
+        }
+      }
+    },
+    "DB": {
+      "all_time": {
+        "player": "Paul Krause",
+        "score": 95.6,
+        "bio": null
+      },
+      "classic": {
+        "player": "Paul Krause",
+        "score": 95.6,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Darren Sharper",
+        "score": 79.2,
+        "bio": {
+          "round": 2,
+          "season": 1997,
+          "college": "William & Mary"
+        }
+      },
+      "modern": {
+        "player": "Harrison Smith",
+        "score": 86.4,
+        "bio": {
+          "round": 1,
+          "season": 2012,
+          "college": "Notre Dame"
+        }
+      }
+    }
+  },
+  "PHI": {
+    "QB": {
+      "all_time": {
+        "player": "Sonny Jurgensen",
+        "score": 90.7,
+        "bio": null
+      },
+      "classic": {
+        "player": "Sonny Jurgensen",
+        "score": 90.7,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Donovan McNabb",
+        "score": 86,
+        "bio": {
+          "round": 1,
+          "season": 1999,
+          "college": "Syracuse"
+        }
+      },
+      "modern": {
+        "player": "Jalen Hurts",
+        "score": 86.9,
+        "bio": {
+          "round": 2,
+          "season": 2020,
+          "college": "Oklahoma"
+        }
+      }
+    },
+    "WR": {
+      "all_time": {
+        "player": "Terrell Owens",
+        "score": 97.3,
+        "bio": {
+          "round": 3,
+          "season": 1996,
+          "college": "Chattanooga"
+        }
+      },
+      "classic": {
+        "player": "Harold Carmichael",
+        "score": 89.9,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Terrell Owens",
+        "score": 97.3,
+        "bio": {
+          "round": 3,
+          "season": 1996,
+          "college": "Chattanooga"
+        }
+      },
+      "modern": {
+        "player": "A.J. Brown",
+        "score": 89.4,
+        "bio": {
+          "round": 2,
+          "season": 2019,
+          "college": "Mississippi"
+        }
+      }
+    },
+    "RB": {
+      "all_time": {
+        "player": "Steve Van Buren",
+        "score": 93,
+        "bio": null
+      },
+      "classic": {
+        "player": "Steve Van Buren",
+        "score": 93,
+        "bio": null
+      },
+      "bridge": {
+        "player": "LeSean McCoy",
+        "score": 89.5,
+        "bio": {
+          "round": 2,
+          "season": 2009,
+          "college": "Pittsburgh"
+        }
+      },
+      "modern": {
+        "player": "Saquon Barkley",
+        "score": 92.5,
+        "bio": {
+          "round": 1,
+          "season": 2018,
+          "college": "Penn St."
+        }
+      }
+    },
+    "TE": {
+      "all_time": {
+        "player": "Keith Jackson",
+        "score": 91.7,
+        "bio": {
+          "round": 1,
+          "season": 1988,
+          "college": "Oklahoma"
+        }
+      },
+      "classic": {
+        "player": "Keith Jackson",
+        "score": 91.7,
+        "bio": {
+          "round": 1,
+          "season": 1988,
+          "college": "Oklahoma"
+        }
+      },
+      "bridge": {
+        "player": "Brent Celek",
+        "score": 80.3,
+        "bio": {
+          "round": 5,
+          "season": 2007,
+          "college": "Cincinnati"
+        }
+      },
+      "modern": {
+        "player": "Zach Ertz",
+        "score": 87,
+        "bio": {
+          "round": 2,
+          "season": 2013,
+          "college": "Stanford"
+        }
+      }
+    },
+    "FRONT7": {
+      "all_time": {
+        "player": "Reggie White",
+        "score": 99.8,
+        "bio": null
+      },
+      "classic": {
+        "player": "Reggie White",
+        "score": 99.8,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Jeremiah Trotter",
+        "score": 80.5,
+        "bio": {
+          "round": 3,
+          "season": 1998,
+          "college": "S.F. Austin"
+        }
+      },
+      "modern": {
+        "player": "Fletcher Cox",
+        "score": 87.8,
+        "bio": {
+          "round": 1,
+          "season": 2012,
+          "college": "Mississippi St."
+        }
+      }
+    },
+    "DB": {
+      "all_time": {
+        "player": "Brian Dawkins",
+        "score": 95.2,
+        "bio": {
+          "round": 2,
+          "season": 1996,
+          "college": "Clemson"
+        }
+      },
+      "classic": {
+        "player": "Eric Allen",
+        "score": 90.6,
+        "bio": {
+          "round": 2,
+          "season": 1988,
+          "college": "Arizona St."
+        }
+      },
+      "bridge": {
+        "player": "Brian Dawkins",
+        "score": 95.2,
+        "bio": {
+          "round": 2,
+          "season": 1996,
+          "college": "Clemson"
+        }
+      },
+      "modern": {
+        "player": "Asante Samuel",
+        "score": 80.1,
+        "bio": {
+          "round": 4,
+          "season": 2003,
+          "college": "Central Florida"
+        }
+      }
+    }
+  },
+  "DET": {
+    "QB": {
+      "all_time": {
+        "player": "Bobby Layne",
+        "score": 91,
+        "bio": null
+      },
+      "classic": {
+        "player": "Bobby Layne",
+        "score": 91,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Matthew Stafford",
+        "score": 84.8,
+        "bio": {
+          "round": 1,
+          "season": 2009,
+          "college": "Georgia"
+        }
+      },
+      "modern": {
+        "player": "Matthew Stafford",
+        "score": 84.8,
+        "bio": {
+          "round": 1,
+          "season": 2009,
+          "college": "Georgia"
+        }
+      }
+    },
+    "WR": {
+      "all_time": {
+        "player": "Calvin Johnson",
+        "score": 98.6,
+        "bio": {
+          "round": 1,
+          "season": 2007,
+          "college": "Georgia Tech"
+        }
+      },
+      "classic": {
+        "player": "Herman Moore",
+        "score": 88.8,
+        "bio": {
+          "round": 1,
+          "season": 1991,
+          "college": "Virginia"
+        }
+      },
+      "bridge": {
+        "player": "Calvin Johnson",
+        "score": 98.6,
+        "bio": {
+          "round": 1,
+          "season": 2007,
+          "college": "Georgia Tech"
+        }
+      },
+      "modern": {
+        "player": "Calvin Johnson",
+        "score": 98.6,
+        "bio": {
+          "round": 1,
+          "season": 2007,
+          "college": "Georgia Tech"
+        }
+      }
+    },
+    "RB": {
+      "all_time": {
+        "player": "Barry Sanders",
+        "score": 99.7,
+        "bio": {
+          "round": 1,
+          "season": 1989,
+          "college": "Oklahoma St."
+        }
+      },
+      "classic": {
+        "player": "Barry Sanders",
+        "score": 99.7,
+        "bio": {
+          "round": 1,
+          "season": 1989,
+          "college": "Oklahoma St."
+        }
+      },
+      "bridge": {
+        "player": "Barry Sanders",
+        "score": 99.7,
+        "bio": {
+          "round": 1,
+          "season": 1989,
+          "college": "Oklahoma St."
+        }
+      },
+      "modern": {
+        "player": "Jahmyr Gibbs",
+        "score": 81,
+        "bio": {
+          "round": 1,
+          "season": 2023,
+          "college": "Alabama"
+        }
+      }
+    },
+    "TE": {
+      "all_time": {
+        "player": "Charlie Sanders",
+        "score": 93.1,
+        "bio": null
+      },
+      "classic": {
+        "player": "Charlie Sanders",
+        "score": 93.1,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Brandon Pettigrew",
+        "score": 72.8,
+        "bio": {
+          "round": 1,
+          "season": 2009,
+          "college": "Oklahoma St."
+        }
+      },
+      "modern": {
+        "player": "T.J. Hockenson",
+        "score": 84.7,
+        "bio": {
+          "round": 1,
+          "season": 2019,
+          "college": "Iowa"
+        }
+      }
+    },
+    "FRONT7": {
+      "all_time": {
+        "player": "Joe Schmidt",
+        "score": 94,
+        "bio": null
+      },
+      "classic": {
+        "player": "Joe Schmidt",
+        "score": 94,
+        "bio": null
+      },
+      "bridge": {
+        "player": "Chris Spielman",
+        "score": 88,
+        "bio": {
+          "round": 2,
+          "season": 1988,
+          "college": "Ohio St."
+        }
+      },
+      "modern": {
+        "player": "Ndamukong Suh",
+        "score": 86.4,
+        "bio": {
+          "round": 1,
+          "season": 2010,
+          "college": "Nebraska"
+        }
+      }
+    },
+    "DB": {
+      "all_time": {
+        "player": "Night Train Lane",
+        "score": 98.8,
+        "bio": null
+      },
+      "classic": {
+        "player": "Night Train Lane",
+        "score": 98.8,
+        "bio": null
+      },
+      "bridge": null,
+      "modern": {
+        "player": "Darius Slay",
+        "score": 81,
+        "bio": {
+          "round": 2,
+          "season": 2013,
+          "college": "Mississippi St."
+        }
+      }
+    }
+  }
+}
